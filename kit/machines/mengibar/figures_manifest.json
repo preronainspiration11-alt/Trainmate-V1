@@ -1,0 +1,156 @@
+{
+ "figure_count": 10,
+ "figures": [
+  {
+   "figure_id": "fig_p2",
+   "page": 2,
+   "caption": "Machine components & operation (overview)",
+   "image_key": "figures/fig_p002.jpg",
+   "triggers": [
+    "machine",
+    "overview",
+    "components",
+    "operation",
+    "line",
+    "monoblock",
+    "whole"
+   ]
+  },
+  {
+   "figure_id": "fig_p7",
+   "page": 7,
+   "caption": "Upper Filler Turret",
+   "image_key": "figures/fig_p007.jpg",
+   "triggers": [
+    "filler",
+    "turret",
+    "nozzle",
+    "nozzles",
+    "tank",
+    "filling",
+    "fill",
+    "spray",
+    "encoder"
+   ]
+  },
+  {
+   "figure_id": "fig_p8",
+   "page": 8,
+   "caption": "Product Infeed Conveyor",
+   "image_key": "figures/fig_p008.jpg",
+   "triggers": [
+    "infeed",
+    "conveyor",
+    "feed",
+    "product",
+    "entry"
+   ]
+  },
+  {
+   "figure_id": "fig_p9",
+   "page": 9,
+   "caption": "Product Outfeed / Rejection Conveyor",
+   "image_key": "figures/fig_p009.jpg",
+   "triggers": [
+    "outfeed",
+    "rejection",
+    "reject",
+    "conveyor",
+    "exit",
+    "lane"
+   ]
+  },
+  {
+   "figure_id": "fig_p11",
+   "page": 11,
+   "caption": "Machine Assemblies (overview 1–10)",
+   "image_key": "figures/fig_p011.jpg",
+   "triggers": [
+    "assembly",
+    "assemblies",
+    "overview",
+    "components",
+    "parts",
+    "drain",
+    "pan",
+    "valve"
+   ]
+  },
+  {
+   "figure_id": "fig_p14",
+   "page": 14,
+   "caption": "Sorter",
+   "image_key": "figures/fig_p014.jpg",
+   "triggers": [
+    "sorter",
+    "cap",
+    "caps",
+    "bowl",
+    "elevator",
+    "orientation"
+   ]
+  },
+  {
+   "figure_id": "fig_p15",
+   "page": 15,
+   "caption": "Universal Rejection System",
+   "image_key": "figures/fig_p015.jpg",
+   "triggers": [
+    "rejection",
+    "reject",
+    "universal",
+    "overfill",
+    "underfill",
+    "missing",
+    "cap",
+    "quality"
+   ]
+  },
+  {
+   "figure_id": "fig_p18",
+   "page": 18,
+   "caption": "Cap Sorter",
+   "image_key": "figures/fig_p018.jpg",
+   "triggers": [
+    "sorter",
+    "cap",
+    "caps",
+    "bowl",
+    "elevator",
+    "pockets"
+   ]
+  },
+  {
+   "figure_id": "fig_p21",
+   "page": 21,
+   "caption": "Capper",
+   "image_key": "figures/fig_p021.jpg",
+   "triggers": [
+    "capper",
+    "capping",
+    "cap",
+    "torque",
+    "star",
+    "wheel",
+    "head",
+    "heads",
+    "clutch"
+   ]
+  },
+  {
+   "figure_id": "fig_p68",
+   "page": 68,
+   "caption": "LRFL Filling Head",
+   "image_key": "figures/fig_p068.jpg",
+   "triggers": [
+    "lrfl",
+    "filling",
+    "head",
+    "reynolds",
+    "foam",
+    "nozzle",
+    "flow"
+   ]
+  }
+ ]
+}
