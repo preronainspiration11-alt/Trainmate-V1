@@ -1,0 +1,25 @@
+services:
+  - type: web
+    name: trainmate
+    runtime: docker
+    plan: standard          # OCR needs more RAM than starter; standard is safe
+    healthCheckPath: /health
+    disk:
+      name: trainmate-data  # PERSISTENT storage for uploaded manuals
+      mountPath: /var/data
+      sizeGB: 5
+    envVars:
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: SECRET_KEY
+        generateValue: true
+      - key: TRAINMATE_USERS
+        sync: false            # alice:pw1,bob:pw2,carol:pw3
+      - key: TRAINMATE_ADMINS
+        sync: false            # who can upload, e.g. alice   (default: first user)
+      - key: DATA_DIR
+        value: /var/data
+      - key: MODEL
+        value: claude-sonnet-5
+      - key: COOKIE_SECURE
+        value: "1"
