@@ -1,0 +1,1111 @@
+{
+ "machine": "POSIMAT MASTER-15",
+ "doc": "OC12737.3.01",
+ "chunk_count": 138,
+ "chunks": [
+  {
+   "chunk_id": "p1",
+   "page": 1,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "POSIMATA:\nMASTER-15, | 0C12737.3.01\n1. GENERAL INFORMATION\n1.1. DECLARATION OF CONFORMITY AND CE MARK..........e:00 7\n1.2. WARRANTY AND INSPECTION .....sssssssseessstsssssssssssssssceensenee 7\n1.3. REPRODUCTION RESTRICTIONS AND COPYRIGHT.........-. 9\n1.4. DECLARATION OF “CE” CONFORMITY ..--sssessssssssesssssseeee 10\n1.4.1. SITUATION OF THE “CE” MARK ....sssssssssssssseeeeeeseeessenessees 1\n1.5. PRELIMINARY OBSERVATIONS\n1.6. HOW TO USE THIS MANUAL ...sossssssssesssssesssseensseseesseetes 13\n2.4. GIRAMAT BOTTLE ORIENTOR ..........csscssesssseee\n3. INTERFACE AND ELECTRICAL COMPONENTS.................... 29\n3.1., CONTROL PANEL «.sccscsescissssscssssssesssstsasiczcsciscnisceereoeee\n$3.11. BUTTONS cscsccsisssscisssnssvsmnscasmnninmernumnsren. 31\nOctober 10, 2023 2\n» NY",
+   "char_len": 784
+  },
+  {
+   "chunk_id": "p2",
+   "page": 2,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "AST, R 1s,\n| Oc 1D 29\n0)\n34.9 SELp POsImaTZ\nCTOR\n3134 Oa\nwm yy 32\n. TOMA yg\n1.2 2. BL ‘ TOR. 32\n313 Plot y, SCRAMBLER =\nDisp ae 34\n3 2 Sctean TAN gg 35\n3 (MAIN SCR 36\n2.02 Screen , (Nsopp ee\nSs CR BLER FORMATION ee 37\nScreen ne (ALARMS)\nP eg 41\nS$\nSteen no (ALARM HISTORY) 42\n5: Screen ne PRODUCTION) 43\nsce Seren neg egp\nNn? ¢ (ADJUSTMENTS ACCESs) Me ecseeecsnesseee, 44\n3\n2.07, Screen n°. 7. (ADJUSTMENTSg i 49\n3.2.08. Screen po 8 (TIMERS) i ne 50\n3.2.09. Screen no\nse teteettneiee, 54\n3.2.10. Screen ne. 10: (SPEED)\n3.2.11, Screen n°. 11: (SCREEN ADJUSTMENTS) ete teetesseeae: 57\n3.3. SECURITY DOORS AND PEER GENCY ncesictenanecs, 58\n3.4. ALARM MESSARES oe nnnisnnnminnttinnse 59\nseeeeeanssnsteetsensetseness, 61\n4. PNEUMATICAL INSTALLATION............\nsooeeesetensetntttnsttttessttecetege. 62\n4.1. CONTINUOS BLOWING............\n—~",
+   "char_len": 839
+  },
+  {
+   "chunk_id": "p3",
+   "page": 3,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "MASitp\nPOSIMAT2\n4.41408\n-BO\nTTLE PRE-SELECTION coscscsscsscssssssssessestsssseeeee 63\n4.1.2,\nDESCENT OF BOTTLES THROUGH .occccssooesoeec. 64\n5.T\nRANSPoRT, INSTALLATION & START UP\nLHapietaneiCsisTRacass core 65\n51. TRANSPORT. 65\n5.1,\n1. PACKAGING CONSTRUCTION -scscssssseeseeeeeecc 65\n5.1.2. OPTIONAL PROTECTION .......cccssssssessssessssneecssecssseeesseeeeseee 66\n5.1.3. MECHAN\nICAL PROTECTIONS AND GENERAL\nPACKAGING PROCEDURE. ossssosercserrccseststeeeece 67\n5.2. INSTALLATION... cccssscsssscstssssssssininsatsisieeeeeee 68\n6. CHANGEOVER ....\n6.1, MOVING THE INTERIOR BOWL.0.....ccccsscssssssssessestersnseesns 90\n6.2. CHANGING SELECTING PIECES..0.....ccccscsssssssssesteneeee 91\n6.3, CHANGING FUNNELS ......soscsssestaneieietnttitananae 94\n6.4, POSITION OF THE EXIT GUIDE",
+   "char_len": 782
+  },
+  {
+   "chunk_id": "p4",
+   "page": 4,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "a\nny\n8ITIg ORAL 104\n*7R RMAT ¢ MTE PREORIENTaTIoy DEVICE 101\n8. FORMA i Noe, MESCREEY 102\n3. SMT 103\nCHANGING HER Ty NING p\nHANGING tear, ADDLES AND GUIDES... 103\nTOIT amine 104\nMAINTENANCE 0\ntg 1\n7.01. REVioug i 105\niia en 107\n7.03 BEARING of MEMACHINE 107\nFe eM te 107\n7.05. CONVEYoR BELTS ttn 107\n7.06. PNEUMATIC INSTALLATION et ssssittssteseeisses, 108\nPOP MISCELIANEQUS enter, 108\n7.08. LUBRICATION AND SCHEDULE POINTS... occ 109\n7.09. CLEANING SCHEDULE AND POINTS... ccsctcstesteses. 110\n7.10. INSPECTION SCHEDULE AND POINTS... 111\n7.11. CONVEYOR BELT TENSION & REPLACEMENT... 112\nTN\n7.13. REPLACING ELEVATOR BELLT...........c005\nOctober 10, 2023 S",
+   "char_len": 658
+  },
+  {
+   "chunk_id": "p5",
+   "page": 5,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "MASTER-15 | 0C12737.3.01\n7.14. SAFETY SYSTEMS\nDy 7.15. FAN FILTERS\n7.16. VACUUM TURBINE BLADES .....ssssssreseroee\nNTS\n8. SAFETY AND PREVENTION OF ACCIDE!\nenters 121\n8.1. FUNCTIONALITY OF THE MACHINE ....------\n8.2. OBLIGATIONS OF THE OWNER\nsuv vssnievesteeeenvsere 123\n8.3. DEFINITIONS .......sscsssssssssseesesssssseessseeeeeeen\nssttteseeseeneesesesseesnestesssssnssnesteeneessessssuessssessussussesisseseseees 142\n143",
+   "char_len": 428
+  },
+  {
+   "chunk_id": "p6",
+   "page": 6,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "ration if i; ind\nUnsere ber Conformity a\nRANTy AN\nThe Pp\nbottle\ncy scr,\n¥ aMbler has been Subjected to\nSry, as Per the s SCifications requestes by\ne UNscra,\ntie seta tg\n. T *\nworking ant total PPeratonalgagceems TBSSSEarY for it\nThese COnditi, F\nNS are\nSffecteg by: “PPlied\nPOSiMar.\n» to any Client Calleg\nThey are Valid in their ; &xCepting Modifi\nContract a Stipulatio agreeq UPon pb\n©Xpregg| in wri ing, in Suc!\nCOnditions Not moj\neS and\nThe Vendor Warranties © proper Working of the\nSupplieq for a Period of One year, effective aS fro Sliver of\ne equipment.\nbear a limiteg\nby the Vendor Shall ¢\niret a Events, limited to that given b\nSuppliers.\nWarranty,\nen by the i\n\"eSPective",
+   "char_len": 689
+  },
+  {
+   "chunk_id": "p7",
+   "page": 7,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "MASTER-15\nposIMaTZ\ndor shall, either directly\ny them, according to their\nin the briefest time\nparts or pieces\nimpede the\nriod, the V\nThroughout the warranty pe!\nthorised b!\nor via someone specially au!\nown criteria, repair or replace —free of rie se\npossible and wherever determined by them, ring, dO\nWhich, as a result of faulty quality or manufacturing:\nnormal working of the installations.\nThe Vendor's warranty shall not be deeme i\ndoes not properly and immediately inform i\nappearance of the fault or breakdown.\ning faulty and replaced free by the\nrty of the Vendor.\nd valid if the Purchaser\nin writing of the\nPieces acknowledged as bei\nVendor shall remain the prope!\nthose pieces oF materials\nmages arising to the material\nforeseen circumstances and\nExcluded from this warranty are\ndesigned to bear wear, as well as da\nduring transport or unloading or by un\nForce Major, or by the intervention of untrained personnel or by\nlack of care by personnel in the employ of the Purchaser and, in\ngeneral, by not following the servicing and maintenance\ninstructions transmitted by the Vendor.\nAny proven lack of attention to the installation or fault arising as a\nresult of the intervention of untrained or irresponsible personnel,\nshall make this warranty null and void.\nShould the Purchaser carry out the assembly, start up,\nreplacement or modification of any part of the installation without\nthe consent of the Vendor, this warranty shall then be deemed null\nand void.",
+   "char_len": 1487
+  },
+  {
+   "chunk_id": "p8",
+   "page": 8,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "8 are\n‘ Ces Not a\nT Cir and/ Uthor}\nif SA, “UMStances funnels Wey to make the format\nwith Purcha Shall they bear\", bottle formats,\nth an © warranty of\nhe on Vendor ,os Not\nOb} ~ 4Or, Com .\n'Qations eon latter i With the UNdertaki\nThe y, Ned in their y wi S the right to ire contracted\n. arranty it fulfilment 0\nCli es all °\n© lang o SPONSibil\nsu . ility wit\nPplied by the Puta to work carried\nNg accid\n: “ ents or\nained in this ¢ harm to Persons or goods other than\nOr other gj\nr j Ontr.\nSimilar damages, act, loss of earnings, damage to goods\n1.3. REPR\nie)\nDUCTION RESTRICTIONS AND COPYRIGHT\nAll the d\n0 ,\ndrawings et anpie Published in this manual, whether text or\ny Kind, are the exclusive property of POSIMAT S.A.\nAny reproduction, ei i\nPro , either in part or full, or any other usage or\ntransmission to third parties is forbidden without the written\nauthorisation of POSIMAT, S.A.\nAlso prohibited is the storage of the contents of this manual in any\nform whatsoever, i.e.: magnetic, photocopy, etc.",
+   "char_len": 1011
+  },
+  {
+   "chunk_id": "p9",
+   "page": 9,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "posiIMaT@\nMASTER-15 | OC1? 3\nCONFORMITY\nCOSMAL, S.A. that has the office registered in Avenida Arraona,\ntho 08210 BARBERA DEL VALLES (BARCELONA), draws up\nis Declaration of Conformity and declares in its sole responsibility:\nSCRAMBLE FEED SYSTEM\nambling ttles prior to\nlesign an' with the\n1.4, DECLARATION OF “CE”\nR + IN\nof plastic bo!\nThat the machine type “UN\nd manufacturing\nMA: a\nAle , used for the unscr\nEC g, complies as regards both di\nDirectives in force:\n2 -\npeep h Directive on Machinery\nolde Electromagnetic Compatibility Directive\n/CE Low voltage Directive\nponding Technic\n| premises of POSIM\nF ,\nHi ad rll the corres al File has been issued,\nnat aa in the social AT, S.A., in Barbera\nIMP‘ s\nFortean Be sure the protections have been correctly placed.\nblocked a “ne is mandatory to keep the access inside the machine\nfake ant ind therefore, maximizing its safety. POSIMAT does not\nbeard eiarer 4 for the damages caused around in case the\nSods to renin placed or are placed incorrectly.\n2 more information about the e uipmen\nchapter 9 “Safety and prevention of een Y i neta 2\nElisabet Marti\nChief Commercial Officer\nTHIS IS A COPY",
+   "char_len": 1160
+  },
+  {
+   "chunk_id": "p11",
+   "page": 11,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "posIMaTaz\nMASTER-15 | Q¢ 3\n1.5. PRELIMINARY OBSERVATIONS\nut of the orig’\niginal manu:\nis not respons:\ninal. In case of\nal included in\nThi: translated 0\nis manual has been ible for\nr\ndoubt, please double-check the o'\nthe attached Pen Drive. POSIMAT, SA\nany issues due to a mistransiation. ;\ner use O\nThis manual has been designed 3s a guide tre closely read and\nthe machine you have purchased, , dealings with the machine.\nfollowed by any person who has\nhe machine as well as for the\nIt is vital to the correct working of t ; inazout\nSafety of pemonnal, that this manual be read prior to carrying\ni i ith i he instructions must be\nany kind of operation with it. All of t r paps\nfollowed, whether for installation, start up, maintenance y\nother operation so specified in this manual.\nAs manufacturers, we hereby include in this manual the following\nclearly expressed and detailed aspects:\nExact explanations for the correct installation of the machine.\nA detailed description of the different components of the machine,\nas well as their operations, working and start up and stopping.\nA guide for the proper maintenance of the different parts of the\nmachine.\nYou should ensure that the operator has carefully read this manual\nand that they correctly follow the indications given.\nShould that not be the case, or in the event of any part or component\nof the machine having been modified without the prior written E\nauthorisation of POSIMAT, S.A., operation of the machine could be\na potential source of risk for the operator, and all responsibility\narising from this failure shall be the sole responsibility of the client.",
+   "char_len": 1640
+  },
+  {
+   "chunk_id": "p12",
+   "page": 12,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "MaASiep 8 foe.\n: POsimaT@\n- HO\nSET,\nThis his MANU\nUnde ta Ss\nTs' i CEN deg)\ntable of conn oF mY relevant ae, With the aim of facilitating the\nContents at thes; the Start of manue® machine ieee\nA S a su a\nb T to Quickly Ig 8c Chapter, Please “consti both\naring in Mind th ripe the topic YOu are interested in,\nOry. 3t completely reading this manual is\n'Y specific i iated\nhe Contents differentia\n© being to \"eSolve any doubts which may\nION, next to the te\nxt, yor i j\nMi °u shoul y Particular atte tion, os ent EY ae loadin\nint ,\nPoints,\nGiven that they are used to\nMore Important Maintenance Visual\ninformation inspection\nNOTE: The drawings and Photographs of this manual Tefer to a\nmachine with Output to the right (anticlockwise rotation), All\nexplanations are analogues for a machine with clockwise rotation,\n‘ding to the chapter\n: figure has been numbered accor\nel i within the chapter it belongs to ne he ohn so ab\n. etc. following their order of appearance in 7\nC., zi\nle: the fourth figure appearing in chapter 6, under heading\nle:\n6 3 will be numbered as figure 6.3.d.\nOctober 10, 2023 1\n\\",
+   "char_len": 1110
+  },
+  {
+   "chunk_id": "p13",
+   "page": 13,
+   "section": "1",
+   "section_title": "General Information",
+   "text": "MASTER\na OC ) 2)\n01 POSIMATE:\n1.7,\nCONNECTIONS BY THE CLIENT\nItis th ‘i\nand ope of the client to provide supplies for electricity\n; ed air. indicati i\nin Chapters sae » indications referring to these are detailed\n1.8,\nPOSIMAT CUSTOMER SERVICE DEPT.\nSh i\nOuld the client wish to make any technical consultation or\nrequest, this sh i\nee ould be sent by fax or e-mail to th\nService Béoarivent: y ie Customer\nWORLDWIDE\nTelephone : (+34) 93-729.76.13\nfax: (+34) 93-718.84.01\nE — mail: service@posimat.com\nNORTH, CENTRAL AND SOUTH AMERICA\nTelephone : (+1) 305 477 2029\nE-mail : miami@posimat.com\nPOSIMAT ASIA Service Helpdesk\nE — mail : service.asia@posimat.com",
+   "char_len": 664
+  },
+  {
+   "chunk_id": "p15",
+   "page": 15,
+   "section": "2.1",
+   "section_title": "Basic Working — Hopper & Elevator",
+   "text": "pOSIMAT AN\nMASTER-15 | 0C13/37.3.01\ner capacity,\nDepending on the unscrambler model and the hopp'\nthere are two types of conveyor belts:\n© Textile belt\n© Modular belt\nTextile belt Modular belt\nClear plastic panels cover the top of the elevator and hopper.\nNOTE: Cover doors are optional",
+   "char_len": 292
+  },
+  {
+   "chunk_id": "p16",
+   "page": 16,
+   "section": "2.1",
+   "section_title": "Basic Working — Hopper & Elevator",
+   "text": "posimaT@\n‘ re\nwhere bottles/containers 4\nIts exterior is Provided with Several Protections, depending on the\nunscrambler Model.\nIt includes the following elements:\nUpper disk\nAir blowers\nSelectors\nFunnels",
+   "char_len": 208
+  },
+  {
+   "chunk_id": "p17",
+   "page": 17,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "pOosIMATZ:\nMASTER-15 | OCI\nWe tne te a several\ni le\nThe MASTER’s series unscramblers incorpora\nProtections: .\nhe whole of the unscrambler’s\ni t\n1-A fi rotection covers access to the\nframe, ee proecig its interior and Pa eebler's main body,\nMotorization and transmission of the un\nthe load lift and the vacuum fan.\ni ve\nNOTE: This protection is optional. Therefore, pedo veut be\nit at its disposition depending on the features ag\nPurchase,\n2 — There are also fiberglass protections in the middle and ou\nParts of the load lift that prevent the access to the conveyable be\nand the top roller.\nThese protections, on top of preventing damage, are an effective\nacoustic insulation, so that the resulting sound levels are within the\nlimits allowed by the European Union.\nNOTE: If the unit provided for you didn’t have a load lift, it wouldn’t\ninclude the so mentioned protection.\ntransporter",
+   "char_len": 896
+  },
+  {
+   "chunk_id": "p18",
+   "page": 18,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "| J 61 £202 ‘01 saqo199\n‘ ZEININISOg\nLd",
+   "char_len": 40
+  },
+  {
+   "chunk_id": "p19",
+   "page": 19,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "POSIMATZ\nMASTER-15 | 0¢12737 34\nORIENTING DEVICE PROTECTIONS\nf a clear\n5 — The bottle turning device is protected by means ©\nPolycarbonate cabin.\nited\nTo Access to the inside of the orienting device, use ikapa hte ea\nat the front side of the polycarbonate cabin. The : oom sa bond\nsystem which doesn’t allow the opening wh le the aetna.\nworking. This blocking system is part of the sa any at e aching.\nFor mores information see point 3.1.2.2. BLOCK: ee\nUNSCRAMBLER and 33. SEGURITY D'\nEMERGENCY.\ni i ientor, there is a\n§ — At the exit conveyor, right after the orien 7, te\nPolycarbonate cover to prevent the access to the inside of the\norientor.\nSa |",
+   "char_len": 657
+  },
+  {
+   "chunk_id": "p20",
+   "page": 20,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "POsimaT@\nich,\né MASTER Series ig fitted with ° direct access doors wine\nWhile Protecting also give 8CCess to the UNScrambler's interior:\nnd\ndoor. This oor allows access to the ey -\nscrambler, Enabling format Changes if needed.\nSide door. Can be use to car;\nUNScrambler’s interior, i\n(INTERIOR OBSTRU\neasy access to the blocke bottle.\n, e\nTY Out visual inspections aid\nor in the event of detecting a low\nTHE UNSCRAMBLER), toa\nA m\nAs an element of Safety, the Positioner has a door blocking ORG.\nthat doesn't allow their pening while the unscrambler is eee and\nOr more information See point 3.7.2. 2. Doors blocking sele\n\"2. Doors Safety ang emergency.\nSide door",
+   "char_len": 668
+  },
+  {
+   "chunk_id": "p21",
+   "page": 21,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "POSIMATZ:\nMASTER-15 | 0C12737 3.01\nUPPER DISK\nThe upper disk rotates in unison with the unscrambler main shaft.\nIt is where the bottle selection occurs.\nThe upper disk holds the selectors.\nUpper disk",
+   "char_len": 203
+  },
+  {
+   "chunk_id": "p22",
+   "page": 22,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "POsimaTZ\nAIR —\nin\nh °\" Placed j ina Certain areg of the mal\nea\nTHestion area, by these blow Wers es the bottles towards the pre\n© blo STS are also he\n. ieonsib Elling the inside of t\niS Ment all thos se be Sttles tha ane eg ene ng am eee\nIS Ve ™Porta\n\"t keep the air by\nMove them that the f, lOWe\nthe Proper fu\ners iN good Condition and never\nmale sy. Y Posit ion, ite Could cause Problems on\nCtioning Unser\nhapte\nee ¢\ninformatio\nI. PNEUMATICA, INSTALLATION for more\nn regarding to the installation,\n~",
+   "char_len": 510
+  },
+  {
+   "chunk_id": "p23",
+   "page": 23,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "POSIMATA\nMASTER-15 | (\nSELECTORS\nr the preselection of bottles, situating them\nt inside the funnels. Their special shape,\nt of the unscrambler and strategically\nThese pieces are there fo\nbottles always descending in the right\nwith the necks uppermos\ntogether with the movemen'\nlocated air blowers, result in\nPosition inside the funnels base down.\nUpper disk\nSelector",
+   "char_len": 374
+  },
+  {
+   "chunk_id": "p24",
+   "page": 24,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "PIER\n> 1 O% 12735 3.07\nPOsimaTZ\nlecting\nitt 0 the b lates and situated Just below ara 0 pick ue\nPiece Ne funne Fr select 9 piece), There tee reamed i\nthe bottie On its “Scent from he selecting Piece and to\n'N the Vertical Positi 0 the nv\neyor,\nFunnels",
+   "char_len": 257
+  },
+  {
+   "chunk_id": "p25",
+   "page": 25,
+   "section": "2.2",
+   "section_title": "Basic Working — Main Body (upper disk, selectors, funnels)",
+   "text": "posIMATA\nMASTER-15 | OC 3,01\n2.3. EXIT CONVEYOR\nThis is the component that delivers the bottles to the line correctly\nPositioned.\nr consists of a steal chassis with floor supports\nThe exit conveyo\nand a belt.\nThe conveyor belt can be of two ty’\nbelts are perforated.\ncommunicates the interior of the conveyor with a\npes: textile or modular. Both\nA flexible duct\nrated belt, generates the\nfan.\nThe combination of the fan with the perfo\nsuction that bottle stability needs.\nTextile belt\nFlexible duct",
+   "char_len": 508
+  },
+  {
+   "chunk_id": "p26",
+   "page": 26,
+   "section": "2.3",
+   "section_title": "Basic Working — Exit Conveyor",
+   "text": "PosimaTZ\n2.4, SIRay,\n. in order to\n§, Oienting device hag been designed in 0\nAl bottles.\n4 it is\neM reads the Position of the bottle and, if\n’S€nds the turning Signal to the Orienting device,\n+ Vis\nion Camera System ,\n: m.\nNOTE: The bottle Shape wil define the Tequired detection syste .",
+   "char_len": 291
+  },
+  {
+   "chunk_id": "p27",
+   "page": 27,
+   "section": "2.4",
+   "section_title": "Giramat Bottle Orientor",
+   "text": ", —|—Ey**_ _\nposIMATA\nThe orienting device consists of:\n© An inverted U-shape POM fork, that turns the bottle, driven\nby a servomotor. a\npolyethylene, to assist the turn.\n* Two guides, manufactured in\nServomotor\n< -\nU-shape fork\nGuides",
+   "char_len": 242
+  },
+  {
+   "chunk_id": "p28",
+   "page": 28,
+   "section": "2.4",
+   "section_title": "Giramat Bottle Orientor",
+   "text": "PosimaT@\nL\nINTE F, ECTRICA\nPOMPONE RFACE AND ogy\n° parts: Power and Manoeuvres,\nIT\nL UN\nris quipped with a neces\nVres ©Xecuteg by the unscram|\n' .\nical contro\nCENTRAL UNIT gives flexibility fo, Making any logica uiring )\nmodification by Means of Simple reprogramming instead of ta need LZ\nCabling Changes of Switching over °fcomponents, obviating -\n£0 take 4 It i\n: it more\n- It also Provides fo, the Possibility of having\nPhysica, SPace in the Cabinets,\nies out\ni ties ou!\ninput Signals go to the CENTRAL UNIT, Which then car\nny relevant Man\nts.\nOeuvres to activate €ach one of the outpur\n, umented\neure Carried out by the CENTRAL UNIT is doc:\nin the Programme itself.\ny)\nOctober 10, 2933 29) |\nx",
+   "char_len": 712
+  },
+  {
+   "chunk_id": "p29",
+   "page": 29,
+   "section": "3.1",
+   "section_title": "Interface — Control Panel",
+   "text": "a, MASTER-15 | 0C12737.3.01 POSIMATZ:\n3.1. CONTROL PANEL\nComprised of three buttons, two selectors and a display.\nDisplay\nE-Stop\nButtons\nee Selectors",
+   "char_len": 155
+  },
+  {
+   "chunk_id": "p30",
+   "page": 30,
+   "section": "3.1",
+   "section_title": "Interface — Control Panel",
+   "text": "Mas TER 4,\n3.1.4, BUTTONS\nStart butto,. ; #\non: This Will start the unscrambler running,\nStop button.\n* This wi Stop the unscrambler whenever pressed.\nReve , ;\n8nd in revnutton: This wil Start the unscrambler working in inching\n\"Se, always Providing that it ig working in manual mode.\nRe: _\nPresse? Utton: This will reconnect Power to the unscrambler when\n2nd no door is left open, nor emergency stop pushed in.\nwhenever th main Switch is Used this button should also be\nPresseg to nable the unscrambler to run.\nEmergency Stop button: This button has a mechanical retainer\nwhich means that the UNScrambler will Stop instantaneously when it\nIs Pressed, ag Well as disconnecting the power supply, leaving\nPower Connecteg Solely to the display components,\nTo restart the unscrambler, said button must first be reset by\nmechanically resetting it.\nTo restart the unscrambler, first reset the emergency stop a tren\nreset the electrical System using the reset button, found on sf\nof the contro} Panel. (This button is found on the exit conveyor).\n*",
+   "char_len": 1053
+  },
+  {
+   "chunk_id": "p31",
+   "page": 31,
+   "section": "3.1.1",
+   "section_title": "Buttons (Start/Stop/Reverse/Reset/Emergency)",
+   "text": "POSIMATA\n3.1.2. SELECTORS\n3.1.2.1 AUTOMATIC / MANUAL SEL!\nFig.3.1.2.1.A\nECTOR\nAutomatic selector:\ni( i tion\nmatic mode the unscrambler will func’\naap start pushbutton is activated and there\nis no alarm that avoids the start of the\nunscrambler.\nSelector manual:\nIn manual mode the unscrambler will function at a\nslow speed.\nIn order to work in manual mode, it will be\nnecessary to keep the selector in manual position.\nAfter that, the restart pushbutton must be\nactivated (see Fig.3.1.2.1.A) and always keeping\nthe selector in manual position, it will be\nnecessary to press the start pushbutton (green) or\nthe reverse pushbutton (yellow), whatever it is\nneeded (see Fig.3.1.2.1.B).\nFig.3.1.2.1.B",
+   "char_len": 705
+  },
+  {
+   "chunk_id": "p32",
+   "page": 32,
+   "section": "3.1.2",
+   "section_title": "Selectors (Auto-Manual, Door blockage)",
+   "text": "Ma\n3.1.2 2.\n2. BL\nhe OCkagE SELECTOR UNSCRAMBLER\nactivati i\nOpenin je of wat is Selector enables the blockage of the dor\nUnscrambie! OWS and Of any access to the interior of the\nActivated\nblockage\nDeactivated\nblockage\nThe unscrambler\nhe deactivated blockage\nselector. In order to start the unscrambler, it will be necessary to\nactivate the blockage selector and restart the unscrambler,\nwon't start with t\n—\nOctober 10, 2023\n_",
+   "char_len": 435
+  },
+  {
+   "chunk_id": "p33",
+   "page": 33,
+   "section": "3.1.3",
+   "section_title": "Pilot Lights",
+   "text": "~y\n<\nPOSIMATZ\nMASTER-15 | 0C12737.3.01\n3.1.3, PILOT LIGHTS\nGreen pilot light (START):\nWhen the pilot light is on continuously, this means the unscrambler\nVice propels ulation, the pilot light goes off\nWhen the unscrambler has an accum| e\nand the unscrambler accumulated message will come up on the\ndisplay,\nFlashing red light (ALARM):\nThis pilot light will come on and flash on and off, it will always do this\nwhen an alarm situation is present.\nThe pilot light will stay on until the unscrambler is restarted.\nRed pilot light (EMERGENCY):\nae Heat light comes on and stays on whenever there is an emergency.\night is activated when any of the emergen stops are\nwhen any of the doors are open. sae ae",
+   "char_len": 710
+  },
+  {
+   "chunk_id": "p34",
+   "page": 34,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "PosimaT@\nWith an\n: CD and\n4 touch ivi a\nett Si Panel giving access\nI Ssing n the tavameters, Access and handling is\nUC sensitive area,\nAny alarm that happens will automatically appear on the screen\nregardless of wherever you are located. The ACK key must be\nPressed to remove the alarm from the display.\nFor more information on alarms you can consult the point 3.5\nALARM MESSAGES.\nValidation\nOctober 10, 2923",
+   "char_len": 414
+  },
+  {
+   "chunk_id": "p35",
+   "page": 35,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "posIMATA\nMASTER-15 | OC]\nS..\n7 3.2.1. Screen n°. 1: (MAIN SCREEN)\nThis screen shows the company logotype, our web page and e-mail\naddress.\nVisit our WebPage to get up-to-date information on new products.\nAt the bottom the following menus are displayed:\nINFORMATION: Contains and shows all data relating to the\nunscrambler, speeds, etc.\nALARMS: Shows all kinds of faults or alarms taking place on the\nunscrambler.\nPRODUCTION: Total control with regard to production, positioned\nbottles and average production throughputs of the unscrambler.\nADJUSTMENTS: Provides full access for making any modification\nof the unscrambler’s data relating to the internal timers,\nProgrammed speeds, formats and screens.",
+   "char_len": 708
+  },
+  {
+   "chunk_id": "p36",
+   "page": 36,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "PosimaTZ\n3.2.2.\nss < ONSCRAMBLER I\nUnscrambier\nStatus\nINFORMATION)\na\ng\ns\n£\n1- (Pressure Control display): Using this button we Can visualize the\nPressure Control.\nOctober 10, 2023 an",
+   "char_len": 188
+  },
+  {
+   "chunk_id": "p37",
+   "page": 37,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "ee\nMASTER-15 | OC12737.3.01\nPOSIMATZ:\n~@\nUNSCRAMBLER STATUS\nThis screen always shows both the unscrambler’s status and that\nof its sensors, doors, etc\nCharge Display\n(unscrambler messages\nrequires bottles)\nI \\ MACHINE STOPPED\nef a\\\\ 8B\n‘ea\nUnscrambler\nrunning /\nGixote stopped\n=\nWarning\nPressure control\nThermal overload\nManual mode",
+   "char_len": 347
+  },
+  {
+   "chunk_id": "p38",
+   "page": 38,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "tt x\nwes POsIMATa! (\nSSages Will be displayeq On the screen:\nM.\n‘aching Stoppeg: |\nThis. wiy a\nPresent\nThis will @Ppear when the\nCCumulation ph\nen.\nline has an accumulation of bottles, or\nea\nSelected on the scre,\notocell (FC2) is Covered during the time\nMachine running at low Speed:\nThe machine is Tunning at low speed.\nInfeed Conveyor stopped:\ni i onscreen when the bottle infeed conveyor is\niy die te the detection of a maximum level of bottles inside\nthe machine.\n(a",
+   "char_len": 481
+  },
+  {
+   "chunk_id": "p39",
+   "page": 39,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "PosimaTZ\nfiles where all of the alarms which\n“NScrambler are Stored. These alarms are\ney are not actually reset externally.\nShows a\nlist of ay alarms which have taken\n'@Ce on the UNscrambler.\nClear buffer: Allows Clearing an the alarms in the\nhistorical,\n|\n—_ |\n| Hardware diagnosis: If we find this icon in fed colour, it\n[| Means that there is a failure in some hardwa\n(PLc, Peripherics, etc.). We'y clik the icon\nto know which\nelement sends the failure.\nNumber of a\nlarms: A Counter of the number of stoppages which\nhave taken place on the unscrambler,\nFunnels: Information Concerning alarms Caused xclusively on\nthe funnels themselves.\nSelecting Pieces: Det\nthe selector pieces.\nEa — Option which resets the counter.\nLis\ntailed information telating to alarms given on\nOctober 10, 2993",
+   "char_len": 801
+  },
+  {
+   "chunk_id": "p40",
+   "page": 40,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMATZ.\n3.2.4. Screen n°. 4: (ALARM HISTORY)\nAll alarms which have taken place are saved in order or\noccurrence in the alarm history.\nA maximum number of 1024 alarms can be stored. Once they are\nfilled, the older alarm will be automatically erased in order that the\nnewest one can be stored.\nPressing the validation key, the alarm disappears from the display\nbut it remains at historic; if the help key is touched a message with\nthe information about the alarm will appear. If you need more\ninformation regarding the alarms message you can consult the\nPoint 3.5. Warning messages.\nis)\nValidation Help",
+   "char_len": 610
+  },
+  {
+   "chunk_id": "p41",
+   "page": 41,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "ree? You have access to information concerning the\n‘Ounters and UNSCrambler Producti\ntion rate.\n|\nTotal of bottles ; hours: This Screen indicates the ‘otal number of\nbottles Processed ang the total time Of production,\nProduction: This in\na dicates the Number of bottles unscrambled and\nthe Production time.\nOutput: This screen indicates the unscrambler speeg €ach minute,\n|\ntsi > Option which resets the counter, “Si)\nOctober 10, 2023 43 (\netme",
+   "char_len": 451
+  },
+  {
+   "chunk_id": "p42",
+   "page": 42,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMATZ:\n3.2.6. Screen n°. 6: (ADJUSTMENTS ACCESS)\nFormat selected 1\nwom J] ame]\nSIMIAT\nopen\n| Access to\ninternal\ntimers\nINSERT CODE TO ACCESS INTERNAL\nTIMERS:\njoo000 _*\nFORMAT SELECTION CAMERA\nORIENTER:\nOrienter camera format selection\nThis screen shows the different access menus for making any\nnecessary adjustments on the unscrambler.\nAdjustments with fegard to the internal timers, speed type, format\ntype and others referring to the screen such as the contrast and\nlanguage used on the display.\n1: In case we need to Move the unscrambler main body in manual\nmode, press CHANGE OF PARTS button in order to avoid wasting\ncompressed air,\n2: Reload the data of the format showed in the display.\nSPEED: Provides the Possibility of selecting speed via the screen,\nor simply indicating the BOT/MIN Production rate the unscrambler\nis to be run at.\nSCREEN: Shows Specific settings of the display such as the\ncontrast and option of choosing a different language.\nai",
+   "char_len": 978
+  },
+  {
+   "chunk_id": "p43",
+   "page": 43,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMAT: A\nRg\nBy ag, NTER\nFORMaT SELECTION\n4 Scrampjee? We a\" Select each Of the different formats\ncamera, Makes Available tous.\ndin red, wit appear a\nMber co, sponding to the\nFor acces to the neMera egy =, © Mody oF create formats,\n, ‘Wipme, Modify\nPlease USe the following key Access:\nUser; Posimat\nAccess Code: Posi1723\nOstober 10, 2995\n=",
+   "char_len": 346
+  },
+  {
+   "chunk_id": "p44",
+   "page": 44,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "ee eEE—=———————=———\nPOSIMATA\nCHANGEOVER\nis screen you have the option of selecting the\np Abe Crmete avaliable such as activating or deactivating\ndifferent work 7\nthe process for changing the format,\nBy accessing this screen you can select each of the different\nformats available in this positioner. You can select the format you\nwant to work from the dropdown list that will appear when you click\n‘on the arrow in the \"registration name\". Each format is related to a\nnumber that is automatically assigned at the time of configuration.\nWhen wishing to change the format on the machine, to avoid\nwasting compressed air as well as stopping the machine’s fan from\nrunning, press the key where it appears onscreen (change format).\nThis will activate the format change option and the machine will\nwork on inching mode, each one lasting three funnels, thereby\nallowing the changeover to three funnels and three selecting\npieces at the same time.\nFor further information, please cor\nChapter 6. CHANGEOVER.\nnsult format change section,",
+   "char_len": 1034
+  },
+  {
+   "chunk_id": "p45",
+   "page": 45,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMATZ\nCCEgs TO TIMERS\nnes iNreeal ‘00000\nthe\nfirst be © emtan enernal timers of the unscrambler, the access\nSINg the\nme a \"Umer, Tica) pike Hh hg the the 28S Code is to be @ entered wil bring\nhe code aS to be entere\nACCESs CODE\n729\nSho} Skt lly trained\nPe Sonne} nel» | capes ad Pa mo ive =i) to technical ly trai\n1 un: \"Scrambler\n‘d changes without\nProperly adjus\nTo ter\nees PTESS the aboy, sven number then press the\nINTRO key, This will imme mediately give 800885 t0 the internal timers\nVia this so it is aj ot poss ible to 0 reload the Original default\nParameters, << Pre viens sly sn t at the facto, ictory,\nIf some Of the facto, ictory pre. e-Set values have been Modified but which\nones have been fo; forgotten, oie Nhe iven below, and the\nUNscrambler will reload the pa meters\nTo get back to the factory Settings just enter code:\n0123",
+   "char_len": 856
+  },
+  {
+   "chunk_id": "p46",
+   "page": 46,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "L Gi si\n2sSNILIaS\nAIHLNOW\navorol”\naYNS NOA Juv\nSONTLISS\nAOL °\navoTtoL~\n3UNS NOA aUV\nt\nCo aoas 11 urvwery\n‘ONY ANTHOVH aH. SaULLC\n08\n40 Aida '03390u9 01 301930 NOA AT\n‘SONTLLas AWOLDVA 51\naanvs 10H AAV OA WWI SuNaHASAICOY\n$5011 AHL 3SOddNS SONTLLIS\nawoiova 40 QvOT IHL AvHL waUNaNae\n\"SLVWUOd TV NI SONILLAS\n‘AWOLIVE VOT OL SNDISV BUY NOA\ncueadde aq ||IM\nUseios uojeUuyuoD BuImojjo) 24) @pod oy) J81U2 24° nok seuy\nWIMINISOd\n————————— ———«dtl",
+   "char_len": 450
+  },
+  {
+   "chunk_id": "p47",
+   "page": 47,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "/ 6b zor 420199\nI\nC=\n“SIEWUOY Mau SunBy\nY09 0} nox Smoniy :. S3dlogy\nStow FeWsIU ayy jo\nAIPOU PUB MAIN 0} ssooge 1M) SOB yey YON :gy3,\nr z\nS@po0 oy) Ay",
+   "char_len": 158
+  },
+  {
+   "chunk_id": "p48",
+   "page": 48,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMATZA,\nMASTER-15 | O\n3.2.8. Screen n°. 8: (TIMERS)\nConfiguration 2\nConfiguration 1\n[ATS ACCUMULATION TIMERS INEEED TIMERS\naca ton oeiarrnen\nmtr vmeaons GED) 2200 octane\nQB rermerevmanon oes to rman mons\n= ‘SENERAL TIMERS\nFE romowen orroia oem coos\nsang YAGHDA OA ne woos\ney — Goes to Timers menu\na",
+   "char_len": 307
+  },
+  {
+   "chunk_id": "p49",
+   "page": 49,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMAT2)\nA\nACCUMULATION TIMER:\nT1~on DELay Fe:\n, number of\nrimer connecteg ‘o the level photocell for maximum\nbottles inside the Machine.(FC1)\nto change\nMer is set at the factory, but it may be sur machine fs not the\nits setting, wcause the load system fitted to Posinat\nat Used for testing carried out at Posimat.\nSet the Value of the ti\nSaid ph I. ti\nb\nmer to a time above the passage sd serene\nlotocel| imer must fespond in the moment\nbottles Teach laximum level, set by t\nHi\nthe photocell itself.\nIOPPER VIBRATOR:\nActivates or deactivates the vibration Process of the hopper.\nT44_ TIME PER VIBRATION:\nTime between Vibration impulses.\nGENERAL TIMERS:\nTIMERS:\nT3~ BLOWING OFF DELay:\nTimer aimed at keeping @ Continuous flow of air once the Machine\nhas stopped\nT4-Low SPEED ON DELay:\nTimer aimed at the Connection of the accumulation Photocel} (FC2),\nto decrease the Speed of the Machine,\nWhen the Machine is Working at high Speed ang 4 bottie\naccumulation takes Place, this keeps the p) otocel| Cover during\nthe time assigned by the timer Switching the Machine to i Speed.\nDue to this decrease to the lowe:\nSt Speed, the bo!\nthe photocell (FC2) Without reaching a halt due to\ntherefore a halt at the Positioner,\no",
+   "char_len": 1234
+  },
+  {
+   "chunk_id": "p50",
+   "page": 50,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMBTZ:\nD OFF DELAY:\n- Low SPEE!\n® the machine at a low speed once the signal\ning\nMow speed goes off\ngain, even if the low speed or\nhine will carry on starting at low\naimed at kee}\nforccumulation oF\ni tarts a\nthe machine si\noremnulation signal is off the mac\nSpeed for the time set by the tim\nY:\n(CUM OFF DELA\nmer disconnecting the aspirator when the unscrambler\nTimer used for ee exit conveyor and the time loaded in the timer\nhas a build up a!\nhas passed.\nT8 - INSIDE OBSTRUCTION ON DELAY:\nThis is the time aimed to stop the machine in the case of an\nobstruction in its interior. ; |\nThe detection of this alarm takes place detecting whether there is a\nlevel of bottles inside the machine and at the same time, detecting\nif the photocell at the transporter is not counting bottles.\nT9 - EXIT OBSTRUCTION ON DELAY:\nIf your machine is provided with palettes, this is the timer that\nconnects the photocell signal of obstruction (FC 10).\nThis timer must be regulated at the minimum pass time of a bottle\ngiven that, if an obstruction takes place at the transporter’s exit the\nmachine should stop quickly.\nINFEED TIMERS:\nT20 FC1 ON DELAY:\nTimer connected to the level it\ncont photocell for maxim\nbottles inside the unscrambler (FC14). hn number of\ntne ett at the factory, but it may be Necessary to change\nie piel ‘cause the load system fitted to your unscrambler is not\nis as that used for testing carried out at Posimat\net the value of the timey i\nsaid photocell the, te ak sf ime above the Passage of a bottle by\nt respond in th\nbottles reach maximum level, set by the photocell ser when the\na\nOctober 10, 2023\n52",
+   "char_len": 1638
+  },
+  {
+   "chunk_id": "p51",
+   "page": 51,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "MASTER\n18 . POSIMATZ:\nT21 on DELay;\n_ bottles,\nunt REM from 4720 the level photocell sees no more\n© bottle fa, is starteg.\nEN adjust, ; ain marae\n50 ag a! Peet ais timer, itis advisable to leave a cert\nich would\nOceasi tiny’ detection er ess Slats\nion Continual Stop-starts,\n722 OFF DELay.\none taken from shen the photocell detects the maximum levels\nttles, Until the bottle feed is Stopped.\nIhe time taken re auld be minimum so that there is no excess of\nbottle, i uns\nS inside the sambler. The 722 timer, therefore, must\nbe set t 2 minimum time,\nThis Parameter adjusts the limit Speed where infeed timers (720,\nT21 and T22) altemate between Configurations 1 and 2.\nlfwe Modify any of the aforementioned times, the following screen\nwill appear:\nSAVE CHANGES?\nNOT SAVING THE CHANGES\nMEANS LOSING THE DATA WHEN\nTHE MACHINE IS SHUT OFF OR THE\n[FORMAT Is CHANGED,\nse changes will be saved for the Currently.\nIf we press or cee and if we press NO, the unscrambler\nrunning format 6 entered times until the unscrambler 'S shut off of\nwill work ae cfianged in which case the times wil] return to the\nthe format is\npreviously saved ones.\nA",
+   "char_len": 1146
+  },
+  {
+   "chunk_id": "p52",
+   "page": 52,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "MASTER-15 | 0C12737.3.01 POSIMATA\n3.2.9. Screen n°. 9: (RECIPES)\nThis screen gives you the option to create new formats, copy,\nmodify or delete existing ones.\nfe] -—\nSave format\n[ | Copy format\n| om | Delate format\n[| Re-name format\n[TET] — Goes to the timers menu",
+   "char_len": 271
+  },
+  {
+   "chunk_id": "p53",
+   "page": 53,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "|\nposIMAT @ 0\n\\STER.4¢\n3.2,\n10, Screen n°. 10: (SPEED)\nProduction\nFixed Speed r\nindicator Indicate!\n|\nPostmenray ———\n1.0- 16,0 BOT/MIN\n00.0 \\ t 000 _ gelector |\nFIXED spEED i “bRopuCcTION | a\n1y &\n|\nava % = e&\n»\nosespn\nee com |\nT\nPOSITRONIC 1\naccess |\nSPEED\n1—- Current format indicator |\nThrough the central selector we can choose from two of three\nunscrambler speed modes.\nThese possible three speeds modes are:\nxed working speed from a\nFixed speed: Allows selection of a fi\nin term of turns per minute.\nrange of 161 settings (from 1,0 to 16,0),\nOnce the fixed working speed has been selected, the unscrambler\nwill only run at that setting without any variations of turns per minute.\nThe unscrambler will only drop down to minimum running speed in Ay\nthe event of the speed change photocell (FC3) becoming covered.\nthrough the numeric pane} ee\nSelection of the fixed speed can be done\nthat appears when the selection key is pressed.\nThe ratio between the selected setting and speed will be as follows:\n|\nSpeed 1— 30% of unscrambler’s maximum speed.\nSpeed 16— 100% of unscrambler's maximum speed,\nThis means speed 1 doen not mean 1 rpm, and 16, 16 Tpm.\n. unscrambler model and tests Carried out at t\nDepending on the m speed may not actually Correspond to the a\nimu i Ae\nfactory, the maxim id. This is for preventing jams if unser,\n‘ speed. ambi\npatting meenatnl needed. Atal ae value 16 be\nwould ru! “ tting will be that pre-set a e facto\nximum se ry.\nentered, the ma\n—— ~— we",
+   "char_len": 1509
+  },
+  {
+   "chunk_id": "p54",
+   "page": 54,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "‘\nPOSIMATZ:\nMASTER-15 | 0C12737\nbpm): If the working mode “production” is selected\nLegs el lector, the unscrambler will run at the production\nfate on the selection key, this production rate will be given as bottles\nper minute (bot/min).\nThe unscrambler will be constantly regulated so as to meet this\nselected production rate, always providing it is not above the\nproduction rate that the unscrambler has been designed and _ built\nfor. .\nAs in “fixed speed” mode, if the speed change photocell is covered\n(FC3), the unscrambler will change down to minimum running\nspeed. Once the photocell has been uncovered, production will\nreturn to the selected running rate.",
+   "char_len": 665
+  },
+  {
+   "chunk_id": "p55",
+   "page": 55,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "| CLEAN, THE SCREEN\ngive us a few seconds\ncentral display we Cc\nb\n$01 posimaT&\nPRooucTioN\nWOnISTMENT\n<\n42/31/2002 10:59:59aM] 4\n‘ \\\nTransfer\n‘aN Modify the date and the\nN Modified we\n‘© must press the “transfer”\nthe PLC real watch,\n> By Pressing this button, the Screen wi\nwhere it will remain i\nNaCtive to Clean it,",
+   "char_len": 327
+  },
+  {
+   "chunk_id": "p56",
+   "page": 56,
+   "section": "3.2",
+   "section_title": "Display Screens 1–11",
+   "text": "POSIMATZ?\n‘\n3.3. SECURITY DOORS AND EMERGENCY\n' OSIMAT unscramblers\nGENCY STOPS of the P'\nMi nha phic safety system duly homologated.\nare cont\nselector, have been placed at all doors and\nA detector, ighnoralet ten interior. If this selector is activated the\not id te ‘tallow the opening of doors or accesses.\nsal\nacce! inscrambler’s interior the detector must be deactivate\npis this pte the safety system. The selector light will be on as long\nas the safety system is off.\nThe unscrambler cannot start with the blocking selector\nyou must activate the\ndeactivated. To resume the work of the unit\nblocking selector and rearm the unscrambler,\nThe activation of the emergency stop, placed also at the control Panel,\nwill automatically stop the unscrambler and it won’t work until the push\nbutton is unblocked and the buttons RESET and START are pushed\nagain.\n\\f",
+   "char_len": 867
+  },
+  {
+   "chunk_id": "p57",
+   "page": 57,
+   "section": "3.3",
+   "section_title": "Security Doors and Emergency",
+   "text": "ee\nposimar\nMas MER a\n3.4,\nALARM MESSAGES\nine’. 2arm tar, \"\nMdepengan sting Place wil are matically show on the 80/20\n. Y of Where We are clasat ”\nhe following ; |\n. Wing ig 9 list of Messages that may be displayed:\n™ergency °Ctivateg.\nMer, 5 said\n_\"9ency Stops or doors are Sending a signal warning of\ned because the air pressure has fallen\n‘Orki\nThas Stopp\nn scrambler to\nrun Properly 6 bar-s0pe Pressure needed for the un:\nObstruction inside:\nUnscrambler exit obstructed:\nA blockage has occurred at the unscrambler exit.\nIf your unscrambler\nis fitted with a Pallet Conveyor, there will be a\ndetection Photocell (FC10) fitted, which is there to emit a Signal\nwhen the unscrambler exit is blocked.\nManual mode:\nThe selector AUTOMATIC / MANUAL is in the Manual Position,\ni",
+   "char_len": 787
+  },
+  {
+   "chunk_id": "p58",
+   "page": 58,
+   "section": "3.3",
+   "section_title": "Security Doors and Emergency",
+   "text": "s1ER-15 | 0C12737.3.01 POSIMATZ\nUnlocked door:\nThe unscrambler won't start with the deactivated blockage key. In\norder to start the unscrambler, it will be necessary to activate the\nblockage key and restart the unscrambler.\nFactory settings:\nThe original factory settings have been loaded.\nOrientator obstruction:\nThe FC10, obstruction ohotocell of the orientor, has detect bottles\ninside.\nRemove the bottles and restart the equipment.\nGiramat-e servo fault:\nThere is a fault in the servo.\nOpened Giramat door:\nThe Giramat door is opened.\nCamera not ready\nThe vision camera is not ready to work.",
+   "char_len": 608
+  },
+  {
+   "chunk_id": "p59",
+   "page": 59,
+   "section": "3.4",
+   "section_title": "Alarm Messages",
+   "text": "ATICAL INSTALLATION\nTh\njous\nntinu' &\nis co’ 1ON\ny ime8Mbler'g Pneumatic installation INSTALLATION &\nrowing, See chap fp RANSPORT, the pne\nSZ) UP ‘for information regarding\n\"eQuirem,\nMore\nents Needeg.\nit could\nis it co\n7 there, a\nNota: do not follow the instructions detailed\nCause Problems On the\nbler.\nscram\nProper functioning of the un\nshut-off\nlockable s|\nAt the Compresseq air entry, there ig @ manual and\nair valve of fesidual Pre:\n‘Ssure exhaust,\n; nipulation\nfe ate ind of handling ma closed\nIMP. NT: While doing any kind o' as to be\non meine? on the ee aaa Ore procebue ve\nif dlock. Loo at poi TION, a\nhapter g secunped AND ACCIDENT se al ide during\nfoo information about the Security jharineti rations\nthe Start-up ang the maintenance or Tepairing ope\nOctan",
+   "char_len": 776
+  },
+  {
+   "chunk_id": "p60",
+   "page": 60,
+   "section": "3.4",
+   "section_title": "Alarm Messages",
+   "text": "\\\nMASTER-15 | 0C12737 3.01 POSIMAT&\n4.1. CONTINUOS BLOWING\nIn the continuous blowing system, the f ‘ .\nbe differentiated: following two sections can\n1) Sweeping or clearing area.\n2) Descent of the bottles through the funnels.\nThe unscrambler’s continuous blowii\nlowing, di\n7 9, directh\nlectro-valve EV1, works as a long as the uigerernbler i roente, the\ning.\n|\nee |",
+   "char_len": 371
+  },
+  {
+   "chunk_id": "p61",
+   "page": 61,
+   "section": "4",
+   "section_title": "Pneumatic Installation (continuous blowing, descent)",
+   "text": "MaASteR Slog posIMBI\n4.1.4,\nSortie E-SELECTion ' chapter @\nTo ¢, ibed i wai\nTY Out the tion descri in the\nBasic ain aN Princ A reli act used placed 0\n© main bogy YS lowers\nits\nChanging\nfactory set.\nPOSition mi “ rin oe jig, a\nure never\nN: Itis 0 w’eMely important that the air wiow this tevel,\nW 6 bar ( (00 psi, Should air pressure be be!\nle “NScrambie, n unevenly.\nIn the ca.\nts, the\nUnscrambler being fitted with cl said formats\nunscrambpect will hae © different blowers for each one\nSee Chapter Ve CHANGEOVER\nOctober 10, 2995 63 \\",
+   "char_len": 540
+  },
+  {
+   "chunk_id": "p62",
+   "page": 62,
+   "section": "4",
+   "section_title": "Pneumatic Installation (continuous blowing, descent)",
+   "text": "DQ amen ssseisvonadl POSIMATZi\nx\n4.1.2, DESCENT OF BOTTLES THROUGH\nOnce the bottles have passed through the sweeping area, they are\nready to descend through their corresponding funnels, helped by a\nconstant jet of air which only works when the unscrambler is running.\nThis blower is connected to a pneumatic regulator, which has been\nproperly set during the factory testing period. Changing its setting could\ncause malfunctioning.\nNOTE: Changing its setting could cause malfunctioning\n—",
+   "char_len": 490
+  },
+  {
+   "chunk_id": "p63",
+   "page": 63,
+   "section": "4",
+   "section_title": "Pneumatic Installation (continuous blowing, descent)",
+   "text": "MASTER 1\nposimatS\nuP\n‘. TRANSPORT, INSTALLATION & START\n5.4, TRANSPoR,\n; Kaged\ndepen? 8crambe, Will teach your factory y'sea, The geneva\nPackagin’ On Whether freighted overland or by sea.\n'g Procedures are detailed below.\n5.1,\n1. PACKAGING CONSTRUCTION\n1) Bases\nand Strappin allets): i e\nPallets o, boards are used (accesning fo weight) for loading th\nr\nots the 900ds are then fixed to the pase by, bande Of tha\nStem which retains them immobile for transportation, w\nStapleq Plastic interi OV\n2) Cage (not li\nned):\nA str Ucture made out Of Wooden boards allowing the contents to be\nSEEN. As in the Previous case, with a Stapled plastic interior cover.\n3) Compact box with Corner board (lined): .\nAll Wooden Sections of the box are joined. All panels, excepting the\nbase and lid, are lined with waterproof material.\n4) Veneered box:\nThe panels are made using 5 or 6 Pressed sheets. These may be\nof varying thicknesses, depending on the volume and weight. The\nbase of the box is Covered with boards on the corners to allow\ndrainage of water in the Unlikely event of this getting inside, thereby\nallowing a much stronger base.\nDepending on the transport method used, either of the above\ndescribed Packaging methods will be used:\nOverland transport 1,2\n° Sea transport 3\n° Transporte aéreo 4\n————=o\nOctober 10, 2023\nPo",
+   "char_len": 1332
+  },
+  {
+   "chunk_id": "p64",
+   "page": 64,
+   "section": "4",
+   "section_title": "Pneumatic Installation (continuous blowing, descent)",
+   "text": "POSIMATZ,\nide panels and lid are fitted with struts or side reinforcements\nThe side pi\nto which the boards are fixed.\nit on boards along its length, the machine's\nBus bases oe cking with them. They will also have double\neee peat points for the machine on them, and to facilitate\nases,\nhandling of the package.\nAll packaging is built in accord with the weight and volume being\ncontained.\n5.1.2. OPTIONAL PROTECTION\nis available using\nFor land or air freight, anti-moisture protection\ning, fitted onto the\npolythene, that is heat-sealed polythene sheeti\ner enhanced with dehydrated moisture\nusing a heat sealed alumini\ninterior air content. Dehydrated\nmoisture absorbing Clays are always put inside first.",
+   "char_len": 713
+  },
+  {
+   "chunk_id": "p65",
+   "page": 65,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "POSIMATZ\nID GENERAL\n5.1.3. MECHANICAL PROTECTIONS AN\nPACKAGING PROCEDURE\n; 5 neck: i bble-pack\nDan supp or wedges covered muti eee\nPolythene or similar, the Purpose being fai ea\nOf the unit. All Moving parts will be immobi .\ninti-abrasion Protection: incur the\nAnisbras wrapping Materials will be used, these peed auch a\nisk of deterioration While in contact with the mi ,\ndamage to Surfaces by abrasion and chaffing.\nProvision of Mechanical Strapping: ; |\nIn the top-interior section, struts are fitted, their one 2\nProtect the Strapped Parts from Outside tensions sucl\ncompression Caused by the Packing, flexing, torsion or Shearing,\nOwing to handling or transportation,\nClosure of Packaging:\nAll boxes will be clog,\nthose UNScramblers Which have to :\nPackaging and sul sequently repackaged —for their inspection or\nremoval b, ck to factory). Ventilation holes must be Provided (in\nS€a freight Cases bigger than 2m), the aim being to avoid the build\nUp of Condensation inside the Pai 1g.\nMarking:\nDone using indelible ink, Weatherp\nShipment, aS well as Sp\nPosition,\nroof, Stating the nature of the\neCifications for Storage, quality ang",
+   "char_len": 1146
+  },
+  {
+   "chunk_id": "p66",
+   "page": 66,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "waSTeR posIMaTa\n5.2. INSTALLATION\nunscrambler must be done in accord with the\nInstallation of the ur\nkind of packaging itis supplied in.\nOnall packaging, except for retractile, hoist slings must be passed\nunscrambler’s base pallet. In the case of boxes.\nhe case itself, thereby\nunderneath the\nhoisting points are suitably marked in ink on tl\nler to be moved without risk.\nallowing the unscram!",
+   "char_len": 398
+  },
+  {
+   "chunk_id": "p67",
+   "page": 67,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "waastt posIMaTZ\n\\\n5.2. INSTALLATION\nnscrambler must be done in accord with the\nInstallation of the u! :\nckaging it is supplied in.\nr retractile, hoist slings must be passed\nIn the case of boxes,\nkind of pa\nxcept for\nbase pallet.\ne itself, thereby\nOnall packaging, e)\nunderneath unscrambler’s\nhoisting poin are suitably marked in ink on the cas:\nallowing the unscrambler to be mo’\nved without risk.",
+   "char_len": 405
+  },
+  {
+   "chunk_id": "p68",
+   "page": 68,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "MASTER 1.\n5 1 OC1>\n10c) o7\nPOSIMAT2}\n5.3 ® SITUATION OF 7;\nHE UNSCRAMBLER\nOnce\nthe\nrambler has been rem, ved from its Packaging, the\n\"ePs deta alloy ed beret Must be follow,\n1)\nforking,\nTo Unloag this type of Unscrambler Machine it is needed a\n@\nOctoher 10 an-~ “0",
+   "char_len": 271
+  },
+  {
+   "chunk_id": "p69",
+   "page": 69,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "posIMATZ\nunscrambler has been located in its scheduled site, it\nid of the threaded studs fitted on\n2) Once the\nshould then\nthe bottom 0!\nrest directly On\nd with the a\nf the unscrambler’s frame. The threaded studs do not\nthe floor but are instead fitted with feet.\n~))",
+   "char_len": 272
+  },
+  {
+   "chunk_id": "p70",
+   "page": 70,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "POSIMATZ:\n3) With\nusing bone pep elidel Now level, situate and fit the exit conveyor\nconveyor (52) . Plece (51) found on the support foot of the exit\nthe exh Sata h the unscrambler's welded column. The position\nSo that the pert with respect to the unscrambler must be done\nunscramblere rated belt does not rub against the bottom of the\nshould be iat ‘opper, that is, where the bottles come out, but there\nWhen they eal iy Clearance so as to avoid the bottles jumping\nthe exit conveyen of the body of the unscrambler and are put on\nNOTE: This part does not apply to the unscramblers with\nfiberglass cover, since the exit conveyor is supplied in Monoblock\nwith the unscrambler.",
+   "char_len": 678
+  },
+  {
+   "chunk_id": "p71",
+   "page": 71,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "POSIMATA,\n4) Once the conveyor has been fitted to the unscrambler, now is\nthe time -should they prove necessary- to carry out any small\nadjustments on positioning and height of the unscrambier with\nrespect to the exit line (See point 5.7, TRANSFER TO THE LINE\nCONVEYOR).\nContinuation of the\nbottle line\nExit\nconveyor\nOnce the transfer from the POSIMAT exit conveyor to the next\nconveyor in the line has been done, you must adapt the supplied\nprotection to the new situation, to avoid pinching points.",
+   "char_len": 504
+  },
+  {
+   "chunk_id": "p72",
+   "page": 72,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "leuuny\nanding\n(scoop\nsaiquiesosun\npasojo\nuM) uondeioud\nynding\n4221044 tnding\nUo, ie\ns9u0dsueH Indio oy, o, opted inant }\n10) jou :\nwses98UM 84110 INCINO 40 Sto sey6 wmv xg a\nJI! es\nSW leIsy, 104\nSs\nGIMWisod",
+   "char_len": 212
+  },
+  {
+   "chunk_id": "p73",
+   "page": 73,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "POSIMATZ}\nis joi rter, and therefore, when\ntunnel is joined to the transporter, 4 ore, wher\nvane ee transporter (described in the previous point) it will\nsia be mounted in its right position.\nAfterwards we will install the output protection, joining it to the\nsitioner by means of squares\nteat we should fix the protection frame to the positioner by\nmeans of screws.\nSquares\nVERY IMPORTANT: Be sure the protections have been correctly\nplaced. Their installation is mandatory to keep the access inside\nthe unscrambler blocked, and therefore, maximizing its safety.\nPOSIMAT does not take any responsibility for the damages\ncaused around in case the protections are not placed or are placed\nincorrectly.\nSo as to obtain more information about the equipment safety, see\nchapter 8. SAFETY AND PRREVENTION OF ACCIDENTS.\nNOTE: This Part does not apply to the unscramblers with\nfiberglass Cover, since the exit conveyor is supplied in Monoblock\nwith the unscrambler.",
+   "char_len": 963
+  },
+  {
+   "chunk_id": "p74",
+   "page": 74,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "“UIA PEON Bulag 10g ayy Woy\n© senib apin6 ay 4Y8YM Way Sujuayy6y Pui\nBuruesooy Aq }! snipe ‘UOnsod s,aping Ot Bune oipy,\nOU ee Bay) pue SIBUUO; Jeianag 4M pany s) 4PIquieig,\n941 40 140M BUN UO UNC, JoxOHs By) uo P2}eopy) Nosed oy 2eUn\n=e\nBuyvonsod yeuuos PoULNeIep aU) 14 pejsnipp Pinoys oy melt\nPNB xe smb ¢\n@BIMINISOd TSO",
+   "char_len": 326
+  },
+  {
+   "chunk_id": "p75",
+   "page": 75,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "posIMATZ\nusting the conveyor’s rail:\n7) Adj\nInparallel to adjusting the exit guide, it is also necessary t0 modify the\ndistance between the ‘conveyor's rails whenever carrying out a format\nchange.\ning knobs and tightening them when\n‘Adjust it by loosening the fixil\nthe guide gives @ clearance of 5mm from the bottle being worked\nwith.\n‘See Chapter 7, CHANGEOVER.\nan |",
+   "char_len": 375
+  },
+  {
+   "chunk_id": "p76",
+   "page": 76,
+   "section": "5",
+   "section_title": "Transport, Installation & Start-Up",
+   "text": "BUR. 8UUG5\nWeIBEIP o1RD9/9 84h Yoay9 Sow We 3p “qwowey\nS10yaq\nS8seyq\n0 Om 4800 @BueYD ‘agey ia 2 10U sun Pinoys -g, Oho\nHd io wpe ds ode U1 2N6 oy Uounquysip S8e yd ay OY Oy,\nJOT Uo Uonoauy\nID\n\"S40 1U6u ayy gy 28E10% oy Poy\nSy\nPapuoUNors! oy) “yes SueW eisu3g 28 0 uo Mola\nnoe cae 99 JOUIED jeunes =U ey Are\nm6 (Ad) pa\nsy\nIA (: .\n° 27°17 seu} ovo, UN nay supe etetOS nea\nee Se WeH>6un S29 vous\nPen °q Pinoys ouy Aiddng 19mod an\nlenuaseyip & yum “A018 NOK y Pelddne rey, 8 oie cue,\n28 0m Prous rae 8eHon ns aaa\nut\nyey) pl NOILO3NNOD TWORLOa7g BHI Gy by\nBANINISOd",
+   "char_len": 573
+  },
+  {
+   "chunk_id": "p77",
+   "page": 77,
+   "section": "5.4",
+   "section_title": "Electrical & Compressed-Air Connection",
+   "text": "POSIMAT2,\n5.5. COMPRESSED AIR CONNECTION\nur compressed air line has a % inch interior\nSoreee an a supply pressure of at least 6 bars.\nConnect the air to the inlet prepared for a hose of\ndiameter.\n% inch\nATTENTION: Try to respect these Parameters. Should they\nnot be complied with, the unscrambler may experience\nProblems and may not work Properly,\nAt the unscramblers\nair compressed entry there is a manual and\nlockable shut-off air valve,\nee\nOctober 19 9992",
+   "char_len": 467
+  },
+  {
+   "chunk_id": "p78",
+   "page": 78,
+   "section": "5.4",
+   "section_title": "Electrical & Compressed-Air Connection",
+   "text": "‘YoneVEsU ay) 6\nayes” aio) B10! Aue dy, OV\nIQESIAPE SI} ‘mau\n% 6y\n. “oneney ne tate eke ee Soa,\n198 4Nox re sting ng\nOy Way\nay ssreewtt Ny nie\nYO} ‘NOLLNFA Zedey 0 se -\nSEY OAEA He oy Hoja! wes ‘uy\nsue BuupueY 40 puyy a 9 Ded ~\nMP ayy ce Peon =\nLug sue!\nNIMISOd as",
+   "char_len": 268
+  },
+  {
+   "chunk_id": "p79",
+   "page": 79,
+   "section": "5.4",
+   "section_title": "Electrical & Compressed-Air Connection",
+   "text": "gl\nPOSIMATZ\n5.6. BOTTLE FEED\nit ith an infeed elevator,\n1 being supplied wi n beat\negies On, bearing in mind that # puetun one\nlocate Hin the ree unecrambier via the opening on\nheide\nthe bottles insi\nwith a minimum possible drop.\nIn the cast\nOnce situated, connect the motor cable to the terminals of the\nelectrical panel, The cables and termin:\nlals are marked, Should you\nexperience any difficulty, Please refer to the electrical diagram (the\nelevator motor is called D).",
+   "char_len": 480
+  },
+  {
+   "chunk_id": "p80",
+   "page": 80,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "the irae\n| tion of \"tation ©Nce connected.\nF Your\nUng, eyor\nontot Will have ri NOt fitteg With an infeed elevator, a tects\n= i ia a\ndiagra f° Thinals Markediyrected to the pia a lod wiring\nPrior to Making th I ier D. Refer to\nF Your\nd Ung, .\ner\nith the ley\nle Connect ion.\nfitteg with\nill find a\nan elevator, you will fil\n\" Sendin,\nS.\n'9 the signal for more bottle:\nRemembe\n\" at all , iring diagram\nbefore “onMecting ™S refer to the electrical wiring\nInsi\nregu,\" 2 Scambler Bt the rear, there iS a photocell (FC1), that\nle amount of bottles Needed.\nIf there is ex, \" . is activated\n: XCESsive bottle @ccumulation, the photocell is act ive\nSending a Signal that Stops the Motor of the Conveyor belt that feeds\nthe sascramb| in en the level y bottles drops, ¢ © Photocell comes\non again Setting in Motion Said Conveyor belt.\nThe time taken tween the Photocely Sending\nMotor Stopping or Starting can be\nthe signal and the\nSet using the tit\nmers T1772,\ngE\ncc)",
+   "char_len": 979
+  },
+  {
+   "chunk_id": "p81",
+   "page": 81,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "POSIMATA\ni ,\n_set, their final setting, however,\nve the factory preset: Te’ ‘pelt (capacity, speed,\nThese timers leerharacteristics of the In t (capaci\n“42 on possible that these timers may requi\netc.), thus it\nmers, the following must be borne in\nTo adjust the setting of these tit\nmind.\nthe\nit from when the photocell detects\nAid fire fe sezdmuletion, till the motor starts up again, can\nape T1 timer. It is advisable that a certain lag be left to\npe pp accumulation which could occasion continuous stop-\nstarts.\nlation till the\n- From when the photocell detects the accumul ,\ndeed belt motor stops, the time taken must be minimum. The timer\nT2 should, therefore, be always set to the minimum.\nSee point 3.3.10. TIMERS for further information.\nATTENTION: It is advisable on the first start-up, that the bottle\nfeed is very low, given that it may be necessary to readjust some\nparameters which may have been involuntarily modified during\ntransportation and installation.",
+   "char_len": 980
+  },
+  {
+   "chunk_id": "p82",
+   "page": 82,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "Mas POSIMATZi\n57, TRANSFER To THE LINE CONVEYOR\n, f\nIP order to mak jum exit conveyor of\n@ the transfer between the vacut ch\nPOSIMAT a 'd the next line conveyor, POSIMAT has delivered a\nCk of transfer Quides together with the unscrambler.\nID £ase that the Start-up of the unscrambler is done by a POSIMAT\nin cnician (that ic What we recommend), then the technician will be\nlem. In © Start-up of the akon\n6 Cus} ing his in mind the\nfollowing steps: ‘Mer using his own means, please take in m\nExit conveyor Lateral guides of\nthe exit conveyor\nOctober 10, 2023\n83",
+   "char_len": 567
+  },
+  {
+   "chunk_id": "p83",
+   "page": 83,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "Wlod sojsuen,\nsopin6 semog\nwel\nmm NN\nsues,\n84} 40 Julod japon\n243 72 pasajuaa\nue sapinB\nJeysueny ayy\nUSdSNVAL\nqujod sesuen\n‘00g\nJaysuen\n24} JO quJod ejppiw\n94} 32 pasa}.\n30u ase sepinB\nJoysues ays\n——-\nwaasnvel\n) uaemjaq yiod\n109 om) aul\n-su0Kanul yy OBL :PUZ\nJ9jsues) Oy) Je Jsnf Wey) Je}UE9 pue SepinB 42)SUEN 2\n@iIMINISOd",
+   "char_len": 336
+  },
+  {
+   "chunk_id": "p85",
+   "page": 85,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "va\n(QW) sz‘sq\nepin6\nsesuen jer}e]\n(ow)\n§2'S@ Jo e[0y masos e Jo sueEUs Aq JeysUeN Oy} JO WeEs]SUMOP\npue weeysdn sepin6 s0fenuoo oy) ye sejoy ays OW JEL\nJeyy ‘20910 uoHeXy ey) yieW pue sepinG ay) exe) aseeId ‘esodin\nyeu) J04 “sioKeauoo BuNs!xe ayy jo sapin6 ayy YM WaU) ]OBUUE\n0} s} dajs xeu oj ‘pasajues ade sepin6 sessuen eu) 2°40 apie\nAIMINISOd .",
+   "char_len": 352
+  },
+  {
+   "chunk_id": "p86",
+   "page": 86,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "A\nY\nPOSIMATZ, 4\nithout leaps.\nne ranafer between guides needs to be smooth, witho i leaps:\nY happen if the thickness of the next convey\nDigger than the thickness of the transfer guides. Pi\nthem if Necessary,\nThe inner part of the\ntransfer guides and\nthe guides of the next\nConveyor are at the\nsame level.\nThe inner Part of the\ntransfer guides and\nthe guides of the next\nthe same level. The\nleap may cause\nbottles to get\njammed.\nConveyor are not at e eS",
+   "char_len": 458
+  },
+  {
+   "chunk_id": "p87",
+   "page": 87,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "POSIMATZ:\n'SSEMBLING AND DISPOSING OF THE UNIT\n5.8, DISA:\nThe owner of the unit must take it to an authorised handling and/or\nrecycling centre after the end of its useful life, in accordance with\nthe current local legislation and to protect the environment and the\nowner's health.\nponents of the unit must not be disposed of with\nThe electrical com|\nhousehold waste.\nThey must be classified with electric and electronic waste, in\nith the current local legislation. ,\naccordance wi\nMechanical consumables must be disposed of in accordance with\nthe specifications established in the current local legislation.\nAfter completing the lubrication and oil change tasks described in\nchapter 7 MAINTENANCE, bear in mind that in\ni f 5 the resultin: i\noil and empty oil cans cannot be disposed of with theta\nwaste.\nObserve the legal regulations about the disposal of oil",
+   "char_len": 871
+  },
+  {
+   "chunk_id": "p88",
+   "page": 88,
+   "section": "5.6",
+   "section_title": "Bottle Feed",
+   "text": "Seping\nl@uueyo 1W2dsap Jo Feuuny ayy yo bu\nSIUSWBas io S80a1d Bunsajag ey)\n4eyuny Joy Peeu ay) Buluoiseos9 ‘sunny a\nS40 peau Kew ‘adX amog suo\nSewHewos Kay y6noy, ‘oym\nSt siyy\n‘(Pajuayeq) eBueys JEUL0Y jsp).\nHM Ply ase ‘pares asimsoy\\ $991UN ‘suaIquie oun ine Sou ie\n“SAOION VHD -g\n@ZININISOd\n£30 | gy\n4Lisyy,",
+   "char_len": 314
+  },
+  {
+   "chunk_id": "p89",
+   "page": 89,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "POSIMATZ)\n6.1, MOVING THE INTERIOR BOWL\ning pieces and funnels, described in the following\nus hae te Son we will need to move the interior bowl.\nints of a ‘\n‘tee are the following steps to be done:\nswitch off the DOORS BLOCKAGE Selector.\nWe open the changeover door and we change the complete\nchangeover piece (selecting piece and funnel) to which one we\nhave access.\n3. switch on the DOORS BLOCAKGE Selector.\n® 4. Hold the AUTO/MAN selector in manual position continuously and\nat the same time press the RESET button and then Press the\nyellow or green button until we leave the interior bowl in the correct\nPosition to change the next changeover piece.\nPS aS many times as changeover\nWe repeat these very same ste|\npieces we must change.\n5. Close the changeover door.\n6. Press the RESET button before to start working.",
+   "char_len": 825
+  },
+  {
+   "chunk_id": "p90",
+   "page": 90,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "POSIMATZ)\n8.2. CHANGING SELECTING PIECES\n'MPORTANT:\nith 3\nThis Uunscrambler has already been manufactured to run wi\nifferent formats\n200m! NIMYLE (White Color)\n1LNIMYLE (green color)\n500m! NIMYLE (blue color)\n.\nTo place each changeover piece in the correct base plate, please\nfollow this diagram:\n200m1 NIMYLE (White colour)\nPlace a ch\nchangeover Piece for each single base Plate; please do not\nConsider Any color or any mark.\nPlace each changeover piece Matching the green marks (R, L, or M).\n500m! NIMYLE (blue Colour)\nPlace each changeover Piece Matching the black marks (R, L, or M).",
+   "char_len": 596
+  },
+  {
+   "chunk_id": "p91",
+   "page": 91,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "oO fi isk and inserted\nbottles are fixed to the disk\nThe selecting pieces f\nselecti\nunder pressure\n1- Selecting piece or segment\n2-Pivot\n3- Retractable retainer\nTo repi: F . :\nou ee ace the selectors, simply remove by Pressing slightly to the\nOe",
+   "char_len": 249
+  },
+  {
+   "chunk_id": "p92",
+   "page": 92,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "u\nnel\nMASTER-18 | OC; ( ,etai\"\nI\naD\ntrac\nthe fe\nTo place them, introduce the pintle in\nit is stuck ols.\nany to’\nReplacing selectors does not require\n4\n5\nions\n. Ire ulation\nConsider using protective hand gloves if your local reg\nState so.\n4- Extract\n5 - Place\nNOTE: Consider using protective hand gloves\ntegulations state so.\nif your local",
+   "char_len": 343
+  },
+  {
+   "chunk_id": "p93",
+   "page": 93,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "2 eee\n7 POSIMAT2\n6.3. CHANGING F' 'UNNELS\nIMPORTANT:\nThis unscrambler has already been manufactured to run with 3\ndifferent formats\ne 200m! NIMYLE (white color)\ne 1LNIMYLE (green color)\ne 500m! NIMYLE (blue color)\nTo place each changeover piece in the Correct base Plate, please\nfollow this diagram:\n200m! NIMYLE (white colour)\nPlace a changeover piece for each single base late;\nConsider any color or any mark. Riniel Preaiidia not\n1L NIMYLE (green colour)\nPlace each changeover piece matching the green marks (R, L, or M)\n500m! NIMYLE (blue Colour)\nPlace each changeover piece Matching the black marks (R, L, M)\n»L, or M).",
+   "char_len": 634
+  },
+  {
+   "chunk_id": "p94",
+   "page": 94,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "POSIMATZ:\nin place\nd are retained in pla\nspr, 2\"e Pressure-fitteg using pivots an\nTo chan \"9M thei, lower section,\nny\nOn the nwo a\nion given\nplanation\nNel, gi by step the ex\n*t page. el, s ply follow Step by\nNEL\nPRAWING OF THE REAR SECTION OF THE FUN\nTweezer\nPivot\n9 protective hand gloves if your local\nregulations state So.",
+   "char_len": 330
+  },
+  {
+   "chunk_id": "p95",
+   "page": 95,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "~~ posIMaTA\nar section of the\nf the pincer situated On the re\nthe ends ©\n1. Press\nfunnel.\nThis method frees up the pivot holding the segment in place.\n2. This\n3. With the ends of the pincer pressed together, pull the funnel\ntowards its front by its lower section.\n4. Remove the funnel upwards and outwards.\nTo fit them, follow th\nsoa D le abo i :\nPivot is retained by the clreer, mene ENATESS, ensuring that the",
+   "char_len": 417
+  },
+  {
+   "chunk_id": "p96",
+   "page": 96,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "POSIMAT2}\nId the pivot Not be properly retained, the funnel may\n49€ to the Machine's interior.\nING: ‘eMember to\nTE runni,\nadjust ang\nPieces, the\nthe first to be",
+   "char_len": 164
+  },
+  {
+   "chunk_id": "p97",
+   "page": 97,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "ee\n. 7 POSIMATZ\n6.4. POSITION OF THE EXIT GUIDE\n\" from the funnels to the exit conveyor, there is a\nIn the passag} ing the bottles. If your unscrambler is fitted with\nguide for accompanying f ; : a\n‘everal formats, the position of this guide may require changing. Fit it\ni, the position indicated on the sticker located on the front of the\nunscrambler.\nif your unscrambler is fitted with several formats and there is not\nsticker indicating the guide's position, adjust it by loosening the fixing\nknobs and retightening them when the guide has approximately 5 mm\nclearance from the bottle being worked with.\nIn order to have access to the interior of the unscrambler and to be\nable to do the required adjustment, it will be necessary to deactivate\nthe doors blockage. Otherwise, the security system won't allow for\nje area\nits opening.",
+   "char_len": 837
+  },
+  {
+   "chunk_id": "p99",
+   "page": 99,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "POSIMATZ:\n6.5. POSITION OF THE CONVEYOR RAIL\nIn addition to the exit guide, it is necessary to modify the distance\nbetween the conveyor's rails whenever a format change is carried out.\nAdjust it by loosening the fixing knobs and retightening them when\nthe guide has approximately 5 mm clearance from the bottle being\nworked with.",
+   "char_len": 332
+  },
+  {
+   "chunk_id": "p100",
+   "page": 100,
+   "section": "6",
+   "section_title": "Changeover",
+   "text": "Masien posIMaTa\nE\nIN DEVIC!\n6.6. Position OF THE BOLLTE PRE-ORIENTATIO:\nPia THE SUPPORT OF BOTTLE DEVICE the height of the\nF Your uns . ith knobs for adjusting ‘ ach one\nbottle Pre-orientation dewes onthe support of bottles egal on the\nShould be ser for each different format to the position sl\nStickers Stuck next to ach knob. ; ion device\nNormally, there are ‘wo positions for the bottle Pr chee ithe\nfond f° the support of bottles device, one with all the knobs\n'Op stops, the other with all set to the lower stops.\nAdjustments for the\nttle Pre-orienting\ndevice\nAdjustments for the\nSupport of bottle device",
+   "char_len": 619
+  },
+  {
+   "chunk_id": "p101",
+   "page": 101,
+   "section": "6.8",
+   "section_title": "Format Change on Screen & Giramat",
+   "text": "PUDLAVEse ——\ng.7, FORMAT CHANGE ON THE SCREEN\nwhen the format change procedure gets executed though the\nscreen, the syste” will automatically activate and deactivate {he\nssrresponding settings (timers, speed...) according to each\nmoment.\nA . :\n‘or further information, please consult 3.3.6. Scre 2.\n. 3.6. en n°.\n(ADJUSTMENTS)\n6:",
+   "char_len": 334
+  },
+  {
+   "chunk_id": "p103",
+   "page": 103,
+   "section": "6.8",
+   "section_title": "Format Change on Screen & Giramat",
+   "text": "Siaul oii SKouial wileg\noy emoq 4 0} BUIpsOOST y a6 yeu? oF PAK\noes UOHO@IeP © qu paddinbe § auyoow nod\nwove NO1L9aL34 oNIONVH!\nuns 9q jm yeu) eu\nnok ‘s}200}0Ud UM >\nwaNinisod\ny 4",
+   "char_len": 183
+  },
+  {
+   "chunk_id": "p104",
+   "page": 104,
+   "section": "6.8",
+   "section_title": "Format Change on Screen & Giramat",
+   "text": "POSIMATE\n” Maing\nTRUCTIONs\nations for aintenance Operations.\nPersonne dined in this Chapter is aimed exclusively at\noe “ONtrolg\nNee Perations ©xplained in this Chapter,\n4 Pressure \"VE the ler connecteg electrically of\nMaTation® ; efore Starting any inspection or\nMa : \"Scrambler by the Skilled Staff, it is\nA. Acti\nVv\n“Nscrapyate\nair valve duly Closeq, While the\nion, Cleaning, lubrication OF repa;\nfi iSheq.\n- To |\niting Works\nfF” oF ty exhaust fesidual air by\n* the key from the Ck should be kept and\nnN by the 9 era IS Working On the\ni a hapter 9 curity ang\nt Point 9.8. OTO Procedure On ch;\nacetientnat 28.“ to have More information abo.\ninstructions to be followed during the Start-up an\nor pairing Operations.",
+   "char_len": 722
+  },
+  {
+   "chunk_id": "p105",
+   "page": 105,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "POSIMATEZ,\nOn finishing all inspection or maintenanc\n. e ‘\nreconnecting the compressed air and Ait cieeice prior to\ning the unscrambler, ensure that hereiata be\nintention of restart\ntools or any other object that may have been replaced left insid\nside it.\nThe first time the unscrambler is started u\n¢ aft i\nmaintenance work, must be dane by th can a,\non\ninspection or\nwho has carried out the inspection i\nother duly authorised paneer with ONeDIE Rives or any\nunscrambler's working and who has been proper vnfa ge of the\nwhat work has just been done. Said person should fice ie med as to\nthe safety devices are working properly, then ei that\nUNSCRAMBLER BEING INSPECTED” sign ‘and alll emove the\noperators of the unscrambler to carry out their work. peda asl |",
+   "char_len": 764
+  },
+  {
+   "chunk_id": "p106",
+   "page": 106,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "PosImare;\nTOR On\nPP Ot ory, Por: in their mncrambler shout\noct owt ‘ne in roceorarb ine\ncontac ed You wir, find these structions in the Pen-drive wh\nComes With, this Manuay\nAs 7 2M era it i 'd that yo, ITY out © Change\ning Oil af OY 2 yor! or’ 00 UNScrambigy working hours, f, t the\nane\"Val cad sey with nd vers M2 manufac 5 the motor,\nna for this reason jp 's very importa, nsult\n™anutac rer's nstructio, beforeh, ind,\n* Bi ING o, HE Uj SCRAMBLER\nAll th bea 9S fitted to 1 Scambler are Steased ang Sealeg\nTor their ent Working jig 0 not, therefore, \"equire further\nlub, ion,\nae RICA TIO\nYue that the UnScrampy Pinions are Pt lubricateg, AS a rule\nthey Shoulg be easeg Solig @ month.\n8, Con Yor BELr.\nPlea bear NN th, Mbler jg Provide With an\nSlevato, pper &xposeq 16 stray, hi besig, the Wear\nand 4nd th fore el Sular hi ‘Cking f ‘Oth\nhoppe, 1d exit Nveyc ‘©nt them fro, Off-\nCentereg\n00k o, Obje aus\n90oq HOning OF th\n4Nd its is,",
+   "char_len": 931
+  },
+  {
+   "chunk_id": "p107",
+   "page": 107,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "POSIMATZ:\n7.6. PNEUMATIC INSTALLATION\nwith a pressure regulator, check that the machine is\nisin depen the correct air pressure.\nworki\nine’ ic i i the\n. in the machine's Pneumatic installation,\ney Ore Mat impurities do not find their way inside the\naim being\nair pipes.\nPosimat recommends the fitting of an inlet air filter,\n7.7. MISCELLANEOUS\nTake care to do this from the fir:\nSt day and this will enable you to\ndetermine how often then should be cleaned.\nNever use water or other liquids to Clean electrical components.\nEnsure that the inside\nimpurities are very ofte",
+   "char_len": 579
+  },
+  {
+   "chunk_id": "p108",
+   "page": 108,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "MASTER-4¢\nposIMaTZ 14\nOINTS\n7.8. LUBRICATION AND SCHEDULE P\nARD\nseer hl STAND\nSoae mal\nss [a= ets\n| ener\nSN A\nLem\nLed eo © |",
+   "char_len": 131
+  },
+  {
+   "chunk_id": "p109",
+   "page": 109,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "POSIMATZ:\nMASTER-15 | or\nING SCHEDULE AND POINTS\n7.9. CLEAN!\ning device system\nGerection\nRN crunning » =down\ny Every year or every S000 pours running) you have change the fitere —|\nC1\nED A minut for each one\n3 - See electrical diagram.\n_—————— nl\nOctober 10, 2023 110",
+   "char_len": 276
+  },
+  {
+   "chunk_id": "p110",
+   "page": 110,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "- posIMaT& 6\n7.10.1\nINSPE,\nSTION SCHEDULE AND POINTS\nQy\n) 2 Spee electrical diagram.",
+   "char_len": 87
+  },
+  {
+   "chunk_id": "p111",
+   "page": 111,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "POSIMATZ\n7.14. CONVEYOR BELT TENSION & REPLACEMENT\nto tense the belt it will be necessary to use th\ni two th\nh are located in the output end of the conveyor oeeearan\ncabin (see fig.7.11.B).\nIn order\nrods whic\nthe interior of the\ne conveyor of your equipment has a tensor located in th\ne conveyor body (see fig.7.11.C) it will also be raceanand i\nur threaded rods located in this centered tensor Y\nIf th\nof th\ntighten the fo\nFig.7.11.B\nFig.7.11.A\nThreaded rod\nThreaded rod - -\n=<",
+   "char_len": 489
+  },
+  {
+   "chunk_id": "p112",
+   "page": 112,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "ZZ\nMASTER;\nposiIM.\n01 to\nsary\ntit is ners we will\nfirst it is ne\nreyCrter to RaPge the ber Of the conveyor,\nrove the belt th,\nNeed to loosen\nto\nor,\nte, /8 installed in the By 7110).\n° tensors (see fig 7 17,\nIt may be Necessa, te\nfi9.7.44.5 i\n, the\nvacuum fan (se,\nto\n(si\nr (see\nnveyo!\nfirst the leg of the co!\nremove first\nrailing\n© fig.7.44\nf the\nible duct o!\nE) and the flexible d'\nee fig.7.14,\nE).\nFig.7.11.6\nitis necessary\n'N order to HeMOVe the flexible duct of the een t\nto Telease the Clamp by loosening it form the\nDuct inlet\nClamp\nFig.7.11.F",
+   "char_len": 576
+  },
+  {
+   "chunk_id": "p113",
+   "page": 113,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "foci 1 POSIMATA,\nyor has a tensor in the middle of the body it will\nove the front cover in order to be bale to release\n~\nIn case your conve’\nbe necessary to rem\nthe belt (see fig.7.11.G).\nFig.7.11.G\nTo place the new belt we need to follow the same steps as to\nremove it, but this time the other way round. Place the tape across\nthe tensor (see fig.7.11.B and 7.11.C) to the drive roller (see\nfig.7.11.H and 7.11.1), tight it back and center the belt.\nFig.7.11.H\nFig.7.14.1 |\nMotor\nroller",
+   "char_len": 495
+  },
+  {
+   "chunk_id": "p114",
+   "page": 114,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "i, fae\nposimaT@ {\n7.4,\n2. BELTS CONVEYOR\nhine is provided with an\ns besides the usual wear\ngular checking of both\nPleas.\ne do\nbear in mind that if the mac!\nfrom becoming off-\nelevator\nhopper it\nand tear oPper it is expo\n2 far ant teretre wa Tocormend\nCentered, exit conveyors to prevent them\n00k out fo\nIF Obj\n900d functions pec that may cause damage or inte!\nthe conveyor in the gap between\n€nd its chassis.\nIf your\nmachi\nth ine ha:\nlat the ledges neal jan elevator hopper, you should visually check\ne load upwards are in correct condition:\nrfere with the\nthe conveyor\nModular ba\nind\nBelt of the vacuum exi\nconveyor oxit\nvitiperlon mage",
+   "char_len": 647
+  },
+  {
+   "chunk_id": "p115",
+   "page": 115,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "POSIMAI==+\n13. REPLACING ELEVATOR BELT\n7.13. the belt, the damaged best must be removed and\nreplace ,\nTo sttuted for a new one.\neyor structure has two different sections of belt/band: the\nnve\nOeyor belt (1) and the flat belt (2).\nUpper\nprotection\nIn order to handle the belt we will remove the upper protection of\nthe elevator.\nBy the threaded we will loosen the belt to obtain the necessary\nwidth.",
+   "char_len": 403
+  },
+  {
+   "chunk_id": "p116",
+   "page": 116,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "POSIMATZi\nIt\nThe belt is joined by a rod, which we will remove to extract the bel\nfrom the elevator. “ re junciion\nWe will run the unscrambler, without bottles inside, nt the Junction\nof the band will be places at the top of the elevatoi\nprotections).\nAfter extract the rod, we will replace the band for the new one.\nmF > Juntio\nn\narea\nVery important: the paddles of the band has a Correctly position.\nBefore place the rod on the new band, please check the Paddles\nare slightly tilted upward,\nPaddle in\nI \"correct\n\\ )\nJ\nWe will join the band and\nPlace the i\nTofirally we wil tight the bang, \"° SY!\" Upper protection,",
+   "char_len": 624
+  },
+  {
+   "chunk_id": "p117",
+   "page": 117,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "30 POSIMATA,\n7.14, SAFETY SYSTEMS\nssary to revise the correct functioning of the safety systems\nItis neces\nevery week.\nine is running, press on each single emergency stop\nhale te ame functioning correctly. If the device works correctly,\ntogneck e will then stop. In order to restart the machine, it will be\nre aang (0 unnail the emergency stop and restart the machine.\nne\n\\d quick access points to the interior of the machine are\nTe ed with FH safety device that avoids its opening during the\nfunctioning of the machine. They also prevent the machine from\ngetting started in case there is an open door or any open access\npoints.\nSafety device for\ndoors and access\npoints\nEmergency stop\nPlaces at the exit\nconveyor",
+   "char_len": 720
+  },
+  {
+   "chunk_id": "p118",
+   "page": 118,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "posIMaT 2\nMASTER-15 | ;\n7.15. FAN FILTERS\n7 x every\ntrical bo\nin the elec\nsitioned in\nClean the filters of the fans po:\nMonth.\ni f\n‘ exterior 0}\nf ‘overing the ure to\n; ich you will find cove der press'\nne al or ord tke out hie filter. Apply air un\nle electrica a ue\nit until they are free of impurities.\n5.000\narly, or every\n'tis recommended that the filters be replaced ye\nMachine working hours.\n/\nFilter\nFan external\nProtection",
+   "char_len": 437
+  },
+  {
+   "chunk_id": "p119",
+   "page": 119,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "See a\nPOSIMATA\n2 MAST ER\n7.16, VACUUM TURBINE BLADES\nClean the blades of the vacuum turbines every year.\nWithdraw the clasp on the flexible tube so as to be able to remove it.\nTake out the screws in the fibre mouth i\none: in order to get access to the\nTo clean, apply air under pressure until ine i\nimpurities. il the turbine is left free of\nClamp\n|",
+   "char_len": 353
+  },
+  {
+   "chunk_id": "p120",
+   "page": 120,
+   "section": "7",
+   "section_title": "Maintenance (oil, lubrication, belts, filters)",
+   "text": "MASTER.15\nF\nTION O\n8. SAFETY AND PREVEN\nACCIDENTS\n8.1. FUNCTIONALITY OF THE UNSCRAMBLER\nitioning empty\nThe POSIMAT unscrambler is designed for Basiioning Mehta\nPlastic bottles, that is, to take a bulk series of bottles\neM upright one, after the other, at a certain speed.\nsy other appiicati i ibed in this manual,\nplication not specified or descril\nShall be the Sole responsibility of the owner of the unscrambler.\nPOSIMAT,S.4,, Shall not be held responsible for any accident\narising as a result of the improper usage of the unscrambler.",
+   "char_len": 544
+  },
+  {
+   "chunk_id": "p121",
+   "page": 121,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "posIMATZ\nIGATIONS OF THE OWNER\nshould ensure\nwho may hav.\nn to C\nthat this manual has be carefully read by\nthe unscrambler, paying _\ne dealings with\nhapter 9 \"Safety and Prevention of\n8.2, OBL’\nThe owner\nany person 3\narticular attentio\naccidents”.\nowner shou! :\nThe oor working with thi\nal training wi\nthat said persons are properly\nambler and that they have been\nId also ensure\nfety instructions\nis unscr:\nth regard to the sa\ngiven special —\ncontained herein.\nst guarantee that the self-adhesive labels put on the\nhen delivered are kept clean and visible. The owner\new copies of the same from\nto request in writing ni\nf loss or deterioration of said labels.\nThe owner mu:\nunscrambler w'\nalso undertakes\nthe manufacturer in the event o'\nrtakes to allow the usage of keys granting\nbler solely to those persons technically\nnd whom have read the instruction\n\"Safety and\nThe owner hereby unde'\naccess to the unscram\nresponsible for using them, a\nmanual paying particular attention to Chapter 9\nPrevention of accidents\".\nLastly, the owner shall guarantee that the safety i (\nL ler itee 'y instructions a\nhung in clean visible places, within the respective workplaces .",
+   "char_len": 1184
+  },
+  {
+   "chunk_id": "p122",
+   "page": 122,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "posiMaT&\nMASTER46 1001273735\nith the\ncord wii E\n/30/C\n2014 and\n8.3, DEFINITIONS\nin mind in ac'\nThe following definitions must be borne in Hi hes 3\nBoa directive 2006/42/CE concerning — ility Directive\nsonceming Electromagnetic Compatibil e:\n2014/35/Cb cencering Low voltage Directive:\nid\nDANGEROUS AREA; ine in which the safety an\nrea within and/or around a machine in there,\nhealth of NY Person exposed is at risk while\nPERSON EXPOsEp: cae jerous area.\nAny person who ie either partially or fully within a dang\nOPERATor: | intain, clean,\nThe Person(s) employed to install, start up, adjust, main’\nrepair or transport @ machine.\nking in\nThe following information must be read by anyone working\nany way with equipment.",
+   "char_len": 728
+  },
+  {
+   "chunk_id": "p123",
+   "page": 123,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "Pa SSE\nPOSIMATA.\n) V1\n15 | 0C1273 3.\nMASTER\n9.4. PREVENTIONS\nes of safety integration:\ni i for carrying out its\ntion, the unscrambler is apt i\nBy its very const (specified in section 9.1.), and for its\ndesignated nd maintenance (see Chapter 8: “Maintenance’),\nregulation a ersons being exposed to any danger when the\npir la being effected under the conditions foreseen and\nerat\nSpecified in this manual.\ny d king\nseen usage conditions, the operator's War\nIn ae neve been reduced insofar as bother, fatigue and\npsychiatric tension (stress), bearing ergonomic principles in mind.\nPrincip!\nMaterials and products:\nThe materials and products used in making this unscrambler, do\nnot originate risks for the safety or health of persons exposed to it.\nLighting:\nThe unscrambler is equipped with lighting incorporated which is\nalways kept on. This light source does not cause bothersome\nshadows for the operator, nor any kind of dazzle which may\noccasion dangerous situations.\nDesign with respect to manipulation:\nThe unscrambler can be manipulated safely, and is Suitably\nPackaged for its safe transport and storage.\nug to its weight, size and shape, it cannot be moved manually.\nie acaranler nas therefore been fitted with devices for aiding\ni ; 'on by the usage of normal liftin equipm i\nincurring any risks to the Operator. SPOT Nita\nsom i 5. TRANSPORT, INSTALLATION AND STARR UP\n€ information for further information about transport.\na",
+   "char_len": 1448
+  },
+  {
+   "chunk_id": "p124",
+   "page": 124,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "MASTER. 1. posIMaTé\nControrg.\nTh\nnd\ne safe al\nreliabie? WV° been Sesigned and made to ensure ions. They are\n'esistan, Mereby meciding any dangerous attuations. THY ise\ndan er, ‘0 normal Working conditions, a carving out\nPerationg Situations jn the case of error w\niti P of\n4 dental Start up Of the UNScrambler is only possible by means\nerate action ffecte, on the Switching on mechanism.\nfing ON: The UNScrambler Supplies bottles se tema\n7 Nerefy ii 5 in\nhen saig line has © it has automatic stopping\nj; atic\n-, 7 Is ©nough bottles, 2nd it also has autom:\nbone Wevices for when the bottling line requires more\n‘at is Why the anscrambler stops and starts without prior warning\n(this being @ normal function).\nATTENTI \"sure that the yellow label warning of the need\n0 disco Ct the p Supply before any intervention is\nuly fitted\n[Main POWER PNEUMATICAL Swircy\n| USE LOCkourT DEVICE\nTE",
+   "char_len": 889
+  },
+  {
+   "chunk_id": "p125",
+   "page": 125,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "POSIMATA\n3.01\nMASTER 1° |\nstopping devices:\nes\nNormal stoppages\n° ler is fitted with a stop button which allows the total\nle\noe ort in safe conditions.\ns 1. CONTROL PANEL for further information about\nSee point 3.\nstopping devices.\nEmergency stops\nler is fitted with several emergency stops which are\nThe unscram'\nthere to avoid dangerous situations.\n3 These devices are detailed in the following pages.\nDoors blockage\nIf we deactivate the doors blockage during the functioning of the\nunscrambler, then it will act as an emergency stop.\nTo start working again, it will be necessary to activate it and restart\nthe unscrambler.\nKe Deactivated\nBN |» blockage",
+   "char_len": 668
+  },
+  {
+   "chunk_id": "p126",
+   "page": 126,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "2 L\nposIMAT\nThe\nis open. e\nreroconnecto, Switches: window OT owis a\nror id\nThe ra'Scrambie, Will Not Work if any fae ee stly ,\nUNScram ter will not Start unless alll o d durning\nProperly Closeg being opene\nSafety SWitches Prevent the doors from\n“Scrampia Peration.\n‘ors will\nOne cteg to\nid\nd ani\ntoppe\nis fully s'\n! ‘d When the unscrambler is\nonly pene,\nPower supply,",
+   "char_len": 373
+  },
+  {
+   "chunk_id": "p127",
+   "page": 127,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "SS\npOsIMATA\nnpasTeR-19 | Of\np device easy\nency stoP:\nene pler is provided with an emergency sto!\ntify.\nThe unseram\nto see and ide\nly\na\ni\nThis kind of device can’t be blocked without generating a stop\ncommand and unblocking it would never get the unscrambler\nrunning, it would just allow it to be started again.\nATTENTION: Pressing the emergency stop button will\nautomatically stop the unscrambler and it won't start working\nagain until this button is unblocked and the RESET and START\nbuttons are pressed again.",
+   "char_len": 519
+  },
+  {
+   "chunk_id": "p128",
+   "page": 128,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "—= =\nBZ\nposiMat\nys be\nThe ‘lFadhesiy\nkept in 7\ne Co; Sls put on er must al se,\nmbI the ca\nnd ib!\nral\ni , t the unsci\nhe ition\nPlace tl\n© em for\n| ew be us\nPla is not be\nShould thie ie i\nClean. ne\nfor'n thes Please get lo!\n\" lac Nts. wi",
+   "char_len": 239
+  },
+  {
+   "chunk_id": "p129",
+   "page": 129,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "»\nPOSIMATAZ:\nMASTER-15 joci2/3\nInfeed system:\nIMPORTANT NOTE: In case the unscrambler is i i\ninfeed pang {e Se nie therefore the ee\nhas an hole on is top were the infe\nA p nfeed system from the customer\nsponsibility to close the opening in a safe wa\ny\nmust be adapte\nIt is customer re\nrson could get injured.\notherwise any Pe!\nPosimat has not taken into consideratio: i\nn i j\nadaptation of a third party loading Hott at involving the\nresponsible for possible accidents as a result M| bet be ele\nloading system. of the mentioned\nhole",
+   "char_len": 539
+  },
+  {
+   "chunk_id": "p130",
+   "page": 130,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "~~ 4\nBa >\nMa TES posIMat y\n8.5, GE\nNi\nERAL SAFETY INSTRUCTIONS t its\nTran; ; nd at\ninstalanet™9 and UNloading of the unscrambler 72 Suthorised\nPersonne, “© shouig Only be done by spec\nhose\nThe y ~\nAbid car rambler Must only be handled by trained personne”,\nills ang aptitude qualify them for this position.\nPe Wo carry\ntaking he Who have drunk alcohol or who are receiving ragen to carry\nound roducts Which Produce adverse effects, are forbidden\nPe€rations on the unscrambler.\nis vital\n9Ned to be run by one person alone. It is vit\nThe UNScrambler is desi\ntain a suitable distance.\nthat other Persons Main\nBefore Starting the unScrambler up, the operator must check that the\nSafety devices fitted to the unscrambler are working properly, and that\nthey have not been modified in any way which could impair the safety\nlevel of the unscrambler itself.\nOperators of the unscrambler must regularly check the proper\nWorking of the Safety devices installed on the unscrambler as well as\nthe emergency stops.\nThe operator is obligated to inform his/her Superiors of any and all\nfaults they may find on the unscrambler, and in particular those\ndirectly relating to the safety instructions, When changing over Shifts,\nit is vital that the next operator be informed of the unscrambler’s status\nand any possible anomalies.\nP",
+   "char_len": 1322
+  },
+  {
+   "chunk_id": "p131",
+   "page": 131,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "—,\n5 POSIMATZ:\ninst\nkind of anomaly on the unscrambler which\nit is running, the unscrambler\nre be any ; :\nshoul coasion a safety risk while\nmust be stopped.\nrk or task inside the unscrambler, the\nn carrying out any Wo!\nwowing steps must be taken:\nPress the emergency buttons, both on the unscrambler and the\nelectrical panel.\nsupply to the electrical cabinet by throwing\nDisconnect the power\nthe main switch.\nressed supply by means of the air compressed\nf the unscrambler, and lock it with a\nId be kept and be carried\nnscrambler.\nCut off the air comp!\nvalve installed at the entry 0\npadlock. The key from the padlock shou\non by the operator while he is working on the u\nProceed to inspect or repair the unscrambler as necessary.\nOnce finished, or whenever having to start the unscrambler up, it\nis essential to advise all personnel in the vicinity of the\nunscrambler.\nIf it is not possible to leave the safety devices out of service during\nthe maintenance, installation or repair of the unscrambler, the\nwork should be carried out only with special authorisation. Harm\nto those persons working on the unscrambler and the unscrambler\nitself must be prevented.\nWear suitable protective clothing, particularly during the\ninstallation, maintenance and repair work. Suitable protective\nclothing should be close fitting and sufficiently strong.\nDepending on the work to be i\neffected, use protective eyewear,\nearplugs, hard hats, protective footwear, gloves, etc. *\nDo not wear jewellery (rings, necklaces, etc i\n; , etc.) which could get\nae some part of the unscrambler. Avoid wearing neciine\nome ie ren could get caught up inside the unscrambler.\nof hair get et or suitable hat, if your hair is long to avoid the risk\ngetting caught up somewhere inside the unscrambler.",
+   "char_len": 1778
+  },
+  {
+   "chunk_id": "p132",
+   "page": 132,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "ae POsIMAT =\nbler’s\nscram! by\nnce the uns¢ out\nnd ween be pare easton\n\"Sonne! or with the explicit bln Posimat\nCling nouta this Eondition not be comp! I modifications\nharm dam, apc ity insofar as technical\nis\nification.\nS a result of said modificatio\nWorkin, OSifcationg Which qj\n9 or ch di\nPog afety, must only an\n; onents or\nS uniee OF \"adjust Ny of the unscrambler’s ster function\nis “Nknown SS duly 8Uthoriseg todoso, or wheneve\nbe out\n© Safety o, Protective devices must never\nle “Scramble, is running.\ning ;... pk I\nfoneying \"Side the Safety o, isolating device (cabin) is expressly\non © UNscramp, is running,\nmec'@Mbler 's °Perator must first ensure that there are no\nN€l inside t Scrambler before Starting it up.\nItis not necessary £0 access inside of the €quipment for any ype\nS\neee Fationay Work, on} it k and following the\n» Only for maintenance Work a :\nLOTo 9Ck Out Tag Out) Protoco} described in Point 8.8 LOTO\nChapter.",
+   "char_len": 941
+  },
+  {
+   "chunk_id": "p133",
+   "page": 133,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "POSIMATZ!\nMASTER-19 | OC12737 3.01\n8.6. PRE-START UP SAFETY INSTRUCTIONS\nBefore starting the unscrambler up, ensure:\nThat all of the format pieces have been properly and securely fitted\nThat foreign bodies such as tools, cloths, etc., have been removed from\nthe unscrambler.\nThat there is nobody inside the unscramble' :\nrepresent risk for persons. Ss area which could\nDo not use tools, cleaning utensils, etc., while the unscrambler i\nis\nrunning.\nDo not insert your hands inside the unsc: i\nrambler while it i i\nensure that you do not get close to the RSEMNEPS ee\nStay clear of the unscrambler’s movi\n‘ oving parts when\ns stoned because of accumulation because the angen mee\nutomatically start up without warning when the ancumpletten hae\ns\ngone.",
+   "char_len": 755
+  },
+  {
+   "chunk_id": "p134",
+   "page": 134,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "WRN EE\nPOSIMATZ:\nANCE\nJAINTEN.\n87. Sarery 'NSTRUCTIONS DURING M\nAll Maintenance and\nManagement of\nder the\nk must be carried out un\nrepair wor\n8 Person in charge\nsuitably\ntried out by\nra rea tenance and repair work must be ca\nined and qualified Personnel,\nised\nlow unauthori\nDuring Maintenance and repair ag do not a\nPersonne) to Approach the unscrambler.\nce. i learly\ni order inac\nUt a si in Stating that the unscrambler is out of\nVisible Place.",
+   "char_len": 453
+  },
+  {
+   "chunk_id": "p135",
+   "page": 135,
+   "section": "8",
+   "section_title": "Safety & Prevention of Accidents",
+   "text": "posIMATA\n3.01\nnscrambler to be restarted, the person in\ni u\nre allowing the f\nae must check that:\nThe work has been completel:\ne\nmobler is in working condition.\n. The unscral\narried out the work involved have left\nIl persons who have ci\n7 oot f the unscrambler.\nthe danger area O\nmind that Posimat shall not assume any responsibility for\nuent damages or harm arising during\ny finished.\nBear in\nrepair work and any subseq' y o\nthe disassembly, fitting and start up, if the client or person ordered\nrk does so instead of Posimat\nby them to carry out that wo\npersonnel.\nmanual’s safety instructions, observe the\nAs a supplement to this\ncurrent accident prevention instructions in force in you country.\nObserve those regulation in force appertaining to the installing\nand usage of technical installations.\nIn this case, mainly the following points Prescriptions which\nregulate:\no The storage, use and disposal of substances or materials\ntoxic to health and the environment.\n° The storage, use and disposal of materials used for\nproduction.\n. Directives for the use and repair of electrical installations.\n° Specific instructions currently in force in your company.",
+   "char_len": 1180
+  },
+  {
+   "chunk_id": "p136",
+   "page": 136,
+   "section": "8.8",
+   "section_title": "LOTO Procedure",
+   "text": "La\nposIMaTZ\nMASTER-15 | ¢\n8.8. LOTO PROCEDURE (Lock Out Tag Out)\n' wing:\nThe procedure for the LOTO lock ascii idual\nt res\n1. We must to lock, in “closed position”, ire oathock should\nair valve by means of a padlock. The key from the vvorking on the\nbe kept and be Carried on by the operator while he is\nunscrambler,\ney ich b\n2. We must to lock, in “closed position”, the aa bite es\nMeans of a padlock. The key from the padlock should t on the\nbe carried on by the operator while he is working\nunscrambler,\nMain switch\nAir Valve\nbels. The language of them will\nTy destination or the\nNOTE: Example of self-adhesive la\nalways\nbe the same than the equipment count\nlanguage that the Customer required. The volts will\ncorrespond to those of the equipment purchased.",
+   "char_len": 769
+  },
+  {
+   "chunk_id": "p137",
+   "page": 137,
+   "section": "8.8",
+   "section_title": "LOTO Procedure",
+   "text": "POSIMATA:\n9. TROUBLESHOOTING\n9.1. GUIDE\nomalies which may arise while the unscrambler\nible an\nsome possible ibed bellow\nis running, are descri\nroblem source and resolve it quickly, simply refer\nTe en list of commonly occurring problems, and follow\nthe instructions given for each case.\nFollowing the detailed instructions should solve the problem\nsicker. Should the problem persist, however, do not hesitate to\ncat in touch with our Customer Service Department.\nThe following explications are not intended to be a of the\ninstructions Manual. Instructions manual must be read by anyone\nworking with the unscrambler, somehow.\nPOSIMAT CUSTOMER SERVICE DEPARTMENT:\nWORLDWIDE\nTelephone : (+34) 93-729.76.13\nfax : (+34) 93-718.84.01\nE-mail: service@posimat.com\nNORTH, CENTRAL AND SOUTH AMERCIA\nTelephone : (+1) 305 477 2029\nPOSIMAT ASIA Service Helpdesk\nE-mail: Service.asia@posimat.com\nem eee\nOctober 10, 2023\n38\nJ",
+   "char_len": 927
+  },
+  {
+   "chunk_id": "p139",
+   "page": 139,
+   "section": "9",
+   "section_title": "Troubleshooting",
+   "text": "POSIMATA\n15 | 0C12737-3-01\nmasTeR\nduction below required output.\nProblem: Pro\nCheck that the production speed of the unscrambler is set\nSolution:\nproperly.\nCheck that all of the steps needed for making a format -\nwhen carrying out this operation- have been carried out shange\nRefer to chapter 6. CHANGEOVER. ‘\nCheck that the amount of bottles inside the ii\nadequate, as per the information in section 5.6. BORE EES ‘\nCheck that the blowers of the bottle i\npre-selectios\nmoved downwards, should that be the case, cine seotones\nbottles would be ejected from the selecting pieces.",
+   "char_len": 587
+  },
+  {
+   "chunk_id": "p140",
+   "page": 140,
+   "section": "9",
+   "section_title": "Troubleshooting",
+   "text": "posIMaT a\nkon.\nProblem: Settios come out backwards or bro rambler ore\n; sc\ncheck that the bottles reaching the squashed, ne\nanaood ; that is, they are not poke insufficient BIOW!\nPressurc’®Y be shorter than normal owing to\n\" ion or inside\nthis normal tor Potties to be damaged during transportation or insibe\nls pau hopper, it is Necessary, therefore, to a person contre being to\nmand. ea of the unscrambler for a certain timer, the their entry\ninanually remove Cefective bottles thereby avoiding\nSide the uNscrambler.\n; lem is\nony By this method wit it be possible to ensure that the is ped\nhook tt? Unscramble itself; should this prove to be\ncheck the following Points:\n1e\n1) Check that the Potties being fed into the unscrambler and th\nOnes given US to Work with are the same.\n2) The unscrambler se\ntherefore, any variation\nking. If you detect differ\n_ hnical Department in order te\nModifications needing to be effected.\nlo get advice as to\n3) If the bottles are identical, the Problem may be in not havin\nCorrectly followed the steps given in Chapter 6. CHANGEOVER.\nin the bottle Pre-selection area are not\n4.1.1. BOTTLE PRE-\nCheck that the air jets\nblocke, ly. Refer to section\n‘d and work Proper!\nSELECTION.\nCheck that the air jets continue blowing until the unscrambler has\ntotally Stopped.\nhis additional blowing time can be set on timer T8.\nCheck that there is no excessive accumulation of bottles inside\nthe unscrambler. Regulate this accumulation using the timers\nT1 and T2.\ni",
+   "char_len": 1500
+  },
+  {
+   "chunk_id": "p141",
+   "page": 141,
+   "section": "9",
+   "section_title": "Troubleshooting",
+   "text": "WO\nPOSIMATA\nFICATIONS IN THE PLC PROGRAMM (SIEMENS\n9.3. MODI\nPLC)\nwnload of the modification or the program at the CPU\nlected, tl\nOnce the do he following dialogue window will appear:\nhas been se!\nWe introduce the password and press \"Load\". Then the program\nwill load on the CPU.\nnab peomedbecavse precondions we nets\nFewer requed\nfree peso er ma\nDownload seloae ts device\nOvert on. objeas hte nine ed ll be oveoicen,\n24 cman,\nThe password is: Posi1723",
+   "char_len": 463
+  },
+  {
+   "chunk_id": "p142",
+   "page": 142,
+   "section": "9",
+   "section_title": "Troubleshooting",
+   "text": "MasTER-15 |\nPOSIMATA\nATS\nIST FORM.\nRenOREQUIRED SOFTWARE TO ADJU:\nREMOTELY h\nrdiess of the\nTeamviewer V.15 must be installed on the PC regal\nFpvice we are going to adjust / tomer.\nThis software is used oo Connecting Posimat and cus\nTo adjust PLe and HMI: i MI.\nTIA Portal V.17 Update & on the PC to adjust PLC and Hi\nTo adjust the\nServomotor:\nScout TIA V.;\n5.4.3.0 on the PC\nTo adjust the OMROM camer\nle Posimat te\nfechnician will install a simulator, therefore no\nSPeCcific software is needed,",
+   "char_len": 501
+  },
+  {
+   "chunk_id": "p143",
+   "page": 143,
+   "section": "9",
+   "section_title": "Troubleshooting",
+   "text": "(yeas\n5 posIMaTA\nSSAGES AND THEIR SOLUTION\ne will automatically show on the\nwe are placed.\nsages that may be displayed:\nS ME!\na5, WARNINO screen\nact\nalarm taking P!\nMjependently of where\nThe following is a list of mes:\nEmerge!\nThe emergen'\nfault.\nney activated:\ncy stops OF doors are sending a signal warning of said\nThermal fault:\nAmotor frequency inverter is causing said fault.\nInsufficient air pressure:\nThe unscrambler has stopped because the air pressure has fallen\nbelow the correct working pressure needed for the unscrambler to\nrun properly (6 bar-90psi).\nObstruction inside:\nA blockage has occurred inside the unscrambler, the side door will\nhave to be opened and the bottle causing the blockage removed.\nUnscrambler exit obstructed:\n/\\ bicctans has occurred at the unscrambler exit.\noh lla te litag c on with a pallet conveyor, there will be a\ncel fitted, which is th i i\nwhen the unscrambler exit is blocked. a\nManual mode:\nThe sel\nlector AUTOMATIC / MANUAL is in the manual Position",
+   "char_len": 1013
+  },
+  {
+   "chunk_id": "p144",
+   "page": 144,
+   "section": "9",
+   "section_title": "Troubleshooting",
+   "text": "posIMaTaz\nUnlocked door:\njockage key. In\ni r\ntivated bI ivate the\nThe unscrambler won't start with the deac to activ\ncessary\norder to start the unscrambler, it will pe on\nblockage key and restart the unscram|\nFactory settings:\nled.\nThe original factory settings have been load\nOrientator obstruction:\n. jetect bottles\nThe FC10, obstruction ohotocell of the orientor, has di\ninside.\nRemove the bottles and restart the equipment.\nGiramat-e servo fault:\nThere is a fault in the servo.\nOpened Giramat door:\nThe Giramat door is opened.\nCamera not ready\nThe vision camera is not ready to work.\nof",
+   "char_len": 605
+  }
+ ]
+}
