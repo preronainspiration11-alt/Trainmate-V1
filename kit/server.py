@@ -188,7 +188,7 @@ def language_directive(language):
             "Keep the \u26a0 prefix on safety lines.")
 def figure_menu(figs):
     if not figs: return "(none)"
-    return "\n".join(f"- {f['figure_id']} : {f.get('caption','figure')} (p.{f['page']})" for f in figs)
+    return "\n".join("- " + f["figure_id"] + " : " + f.get("caption","figure") + (" (p." + str(f["page"]) + ")" if f.get("page") is not None else "") for f in figs)
 
 def pick_figure_trigger(question, answer, figs):
     text = (question + " " + answer).lower()
@@ -286,7 +286,7 @@ def ask(req: AskReq, user: str = Depends(current_user)):
         if f and len(figures) < 2:
             figures.append({"figure_id": f["figure_id"], "caption": f.get("caption", ""),
                             "url": f"/fig/{mid}/{Path(f['image_key']).name}",
-                            "section": f.get("section", f"p.{f['page']}")})
+                            "section": (f.get("section") or ("p." + str(f.get("page")) if f.get("page") is not None else ""))})
         return ""
     answer = re.sub(r"\[FIGURE:\s*([a-zA-Z0-9_]+)\s*\]", _pull, text)
     answer = re.sub(r"\[FIGURE:[^\]]*\]?", "", answer).strip()
@@ -335,3 +335,11 @@ def delete(mid: str, user: str = Depends(require_admin)):
     try: (UPLOADS_DIR / f"{mid}.pdf").unlink()
     except OSError: pass
     return {"ok": True}
+   
+
+
+
+       
+ 
+
+
