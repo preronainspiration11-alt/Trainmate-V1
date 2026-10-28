@@ -17,7 +17,7 @@ from collections import Counter
 from fastapi import FastAPI, UploadFile, File, Form, Request, Response, HTTPException, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
+from fastapi.responses import FileResponse, StreamingResponse
 from pydantic import BaseModel
 import anthropic
 
@@ -32,7 +32,10 @@ MACHINES_DIR.mkdir(parents=True, exist_ok=True)
 UPLOADS_DIR.mkdir(parents=True, exist_ok=True)
 
 MODEL         = os.environ.get("MODEL", "claude-sonnet-5")
+MAX_TOKENS    = int(os.environ.get("MAX_TOKENS", "1024"))
 COOKIE_SECURE = os.environ.get("COOKIE_SECURE", "1") == "1"
+USE_RETRIEVAL = os.environ.get("USE_RETRIEVAL", "1") == "1"   # 1 = send only the relevant chunks (faster)
+TOP_K         = int(os.environ.get("TOP_K", "10"))
 client = anthropic.Anthropic()
 
 # ---------------- auth ----------------
@@ -149,6 +152,37 @@ for d in MACHINES_DIR.glob("*"):
 
 # ---------------- load a machine's data (cached) ----------------
 _cache = {}
+def chunk_block(c):
+    return ("[chunk " + c["chunk_id"] + " | "
+            + ((f"\u00a7{c['section']} {c.get('section_title','')} | ") if c.get('section') else "")
+            + f"p.{c['page']}]\n" + c["text"])
+
+import math as _math
+from collections import Counter as _Counter
+def _tok(x): return _re_word.findall((x or "").lower())
+import re as _re2
+_re_word = _re2.compile(r"[a-z0-9]{2,}")
+def _ensure_index(data):
+    if "idf" in data: return
+    chunks = data["chunks"]; df = _Counter()
+    for c in chunks:
+        for w in set(_tok(c["text"])): df[w]+=1
+    N=len(chunks) or 1
+    idf={w: _math.log(1+N/(1+n)) for w,n in df.items()}
+    def vec(tokens):
+        tf=_Counter(tokens); v={w:(1+_math.log(n))*idf[w] for w,n in tf.items() if w in idf}
+        nrm=_math.sqrt(sum(x*x for x in v.values())) or 1.0
+        return {w:x/nrm for w,x in v.items()}
+    data["idf"]=idf; data["vecs"]=[(vec(_tok(c["text"])),c) for c in chunks]; data["_vec"]=vec
+def retrieve_chunks(data, question, k):
+    _ensure_index(data)
+    qv=data["_vec"](_tok(question)); scored=[]
+    for cv,c in data["vecs"]:
+        sdot=sum(qv[w]*cv.get(w,0.0) for w in qv)
+        if sdot>0: scored.append((sdot,c))
+    scored.sort(key=lambda x:-x[0])
+    return [c for _,c in scored[:k]] or data["chunks"][:k]
+
 def load_machine_data(mid):
     if mid in _cache: return _cache[mid]
     base = _data_dir(mid)
@@ -257,40 +291,77 @@ def fig(mid: str, name: str, user: str = Depends(current_user)):
     if not path.exists(): raise HTTPException(status_code=404, detail="not found")
     return FileResponse(str(path))
 
-@app.post("/ask")
-def ask(req: AskReq, user: str = Depends(current_user)):
+def _build_call(req):
+    """Returns (error_dict_or_None, mid, data, system, messages)."""
     mid = req.machine or "posimat"
     meta = read_meta(mid) or {}
     if not meta.get("available"):
-        return {"answer": "That machine isn't ready yet — its manual is still being prepared.", "figures": []}
+        return ({"answer": "That machine isn't ready yet — its manual is still being prepared.", "figures": []},
+                mid, None, None, None)
     try:
         data = load_machine_data(mid)
     except Exception as e:
-        return {"answer": "", "figures": [], "error": f"Machine data not loaded: {e}"}
+        return ({"answer": "", "figures": [], "error": f"Machine data not loaded: {e}"}, mid, None, None, None)
     name = meta.get("name", mid.title()); model = meta.get("model", "") or ""
+    if USE_RETRIEVAL and len(data["chunks"]) > TOP_K:
+        chunks = retrieve_chunks(data, req.question, TOP_K)
+        context = "\n\n".join(chunk_block(c) for c in chunks)
+    else:
+        context = data["full"]
     system = [
-        {"type": "text", "text": rules_for(name, model) + "\n\nLANGUAGE:\n" + language_directive(req.language)
-},
-        {"type": "text", "text": "MANUAL EXCERPTS:\n" + data["full"], "cache_control": {"type": "ephemeral"}},
+        {"type": "text", "text": rules_for(name, model) + "\n\nLANGUAGE:\n" + language_directive(req.language)},
+        {"type": "text", "text": "MANUAL EXCERPTS:\n" + context, "cache_control": {"type": "ephemeral"}},
     ]
     messages = (req.history or []) + [{"role": "user", "content": req.question}]
-    try:
-        resp = client.messages.create(model=MODEL, max_tokens=2048, system=system, messages=messages)
-    except Exception as e:
-        return {"answer": "", "figures": [], "error": str(e)}
-    text = "".join(b.text for b in resp.content if b.type == "text")
-    # strip any stray figure markers the model may have written
+    return (None, mid, data, system, messages)
+
+def _finish(mid, data, req, text):
     answer = re.sub(r"\[FIGURE:[^\]]*\]?", "", text)
     answer = re.sub(r"\n{3,}", "\n\n", answer).strip()
-
     figures = []
-    if data["has_triggers"]:
+    if data and data["has_triggers"]:
         f = pick_figure_trigger(req.question, answer, data["figs"])
         if f:
             figures.append({"figure_id": f["figure_id"], "caption": f.get("caption", ""),
                             "url": f"/fig/{mid}/{Path(f['image_key']).name}",
                             "section": f.get("section", "")})
+    return answer, figures
+
+@app.post("/ask")
+def ask(req: AskReq, user: str = Depends(current_user)):
+    err, mid, data, system, messages = _build_call(req)
+    if err: return err
+    try:
+        resp = client.messages.create(model=MODEL, max_tokens=MAX_TOKENS, system=system, messages=messages)
+    except Exception as e:
+        return {"answer": "", "figures": [], "error": str(e)}
+    text = "".join(b.text for b in resp.content if b.type == "text")
+    answer, figures = _finish(mid, data, req, text)
     return {"answer": answer, "figures": figures}
+
+@app.post("/ask_stream")
+def ask_stream(req: AskReq, user: str = Depends(current_user)):
+    err, mid, data, system, messages = _build_call(req)
+    def gen():
+        if err:
+            yield "data: " + json.dumps({"type": "done", "answer": err.get("answer",""),
+                                         "figures": err.get("figures",[]), "error": err.get("error")}) + "\n\n"
+            return
+        acc = []
+        try:
+            with client.messages.stream(model=MODEL, max_tokens=MAX_TOKENS, system=system, messages=messages) as stream:
+                for delta in stream.text_stream:
+                    acc.append(delta)
+                    # don't leak raw [FIGURE: ...] markers mid-stream
+                    if "[" not in delta:
+                        yield "data: " + json.dumps({"type": "delta", "text": delta}) + "\n\n"
+        except Exception as e:
+            yield "data: " + json.dumps({"type": "done", "answer": "", "figures": [], "error": str(e)}) + "\n\n"
+            return
+        answer, figures = _finish(mid, data, req, "".join(acc))
+        yield "data: " + json.dumps({"type": "done", "answer": answer, "figures": figures}) + "\n\n"
+    return StreamingResponse(gen(), media_type="text/event-stream",
+                             headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"})
 
 # ---------------- admin: upload a manual ----------------
 @app.post("/admin/upload")
