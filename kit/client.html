@@ -307,16 +307,40 @@ function add(cls,html){const d=document.createElement('div');d.className='msg '+
   d.innerHTML=(cls.indexOf('user')>=0?'<div class="tag">You <span class="dot"></span></div>':'<div class="tag"><span class="dot"></span> TrainMate</div>')+'<div class="bubble">'+html+'</div>';
   thread.appendChild(d);stage.scrollTop=stage.scrollHeight;return d;}
 function addPlain(html){const d=document.createElement('div');d.className='msg assistant';d.innerHTML='<div class="bubble dim">'+html+'</div>';thread.appendChild(d);stage.scrollTop=stage.scrollHeight;return d;}
+function figHTML(figs){let h='';for(const f of(figs||[]))h+='<div class="fig"><img src="'+f.url+'" alt=""><div class="cap"><b>'+esc(f.caption)+'</b> · '+esc(f.section||'')+'</div></div>';return h;}
 async function ask(text){text=(text||q.value).trim();if(!text||busy)return;busy=true;send.disabled=true;
   const hero=el('chat-hero');if(hero)hero.style.display='none';
   add('user',esc(text));history.push({role:'user',content:text});q.value='';
-  const wait=addPlain(T().reading);
-  try{const r=await fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},credentials:'same-origin',body:JSON.stringify({question:text,history:history.slice(0,-1),language:lang.value,machine:CURRENT})});
+  const bubbleMsg=add('assistant','<span class="dim">'+T().reading+'</span>');
+  const bubble=bubbleMsg.querySelector('.bubble');
+  let acc='',started=false;
+  const render=()=>{bubble.innerHTML=fmt(acc)||('<span class="dim">'+T().reading+'</span>');stage.scrollTop=stage.scrollHeight;};
+  try{
+    const r=await fetch('/ask_stream',{method:'POST',headers:{'Content-Type':'application/json'},credentials:'same-origin',body:JSON.stringify({question:text,history:history.slice(0,-1),language:lang.value,machine:CURRENT})});
     if(r.status===401){location.reload();return;}
-    const data=await r.json();wait.remove();
-    if(data.error){add('assistant','<span class="dim">Error: '+esc(data.error)+'</span>');}
-    else{let html=fmt(data.answer||'(no answer)');for(const f of(data.figures||[]))html+='<div class="fig"><img src="'+f.url+'" alt=""><div class="cap"><b>'+esc(f.caption)+'</b> · '+esc(f.section||'')+'</div></div>';add('assistant',html);history.push({role:'assistant',content:data.answer||''});}
-  }catch(e){wait.remove();add('assistant','<span class="dim">'+esc(T().backend)+'</span>');}
+    if(!r.body){ // no streaming support -> fallback to /ask
+      const r2=await fetch('/ask',{method:'POST',headers:{'Content-Type':'application/json'},credentials:'same-origin',body:JSON.stringify({question:text,history:history.slice(0,-1),language:lang.value,machine:CURRENT})});
+      const d=await r2.json(); bubble.innerHTML=fmt(d.answer||'(no answer)')+figHTML(d.figures); history.push({role:'assistant',content:d.answer||''});
+      busy=false;send.disabled=false;q.focus();return;
+    }
+    const reader=r.body.getReader(),dec=new TextDecoder();let buf='';
+    while(true){
+      const {value,done}=await reader.read(); if(done)break;
+      buf+=dec.decode(value,{stream:true});
+      let nl;
+      while((nl=buf.indexOf('\n\n'))>=0){
+        const line=buf.slice(0,nl).trim();buf=buf.slice(nl+2);
+        if(!line.startsWith('data:'))continue;
+        let ev;try{ev=JSON.parse(line.slice(5).trim());}catch(_){continue;}
+        if(ev.type==='delta'){acc+=ev.text;started=true;render();}
+        else if(ev.type==='done'){
+          if(ev.error){bubble.innerHTML='<span class="dim">Error: '+esc(ev.error)+'</span>';}
+          else{const finalText=ev.answer||acc||'(no answer)';bubble.innerHTML=fmt(finalText)+figHTML(ev.figures);history.push({role:'assistant',content:finalText});}
+          stage.scrollTop=stage.scrollHeight;
+        }
+      }
+    }
+  }catch(e){bubble.innerHTML='<span class="dim">'+esc(T().backend)+'</span>';}
   busy=false;send.disabled=false;q.focus();}
 send.onclick=()=>ask();q.addEventListener('keydown',e=>{if(e.key==='Enter')ask();});
 el('homebtn').addEventListener('click',()=>{if(!el('app').classList.contains('hidden'))goHub();});
